@@ -1,7 +1,7 @@
 # 💸 UPI Macro-Economic Spending Forecaster
 
 ## 🌐 Live Dashboard
-**Try the interactive web app here:** [https://timeseriesanalysis-upi-spendingpattern-type-dashboard.streamlit.app/]
+**Try the interactive web app here:** [https://timeseriesanalysis-upi-spending-pattern-forecaster.streamlit.app/]
 
 ## Overview
 This project is a full-stack data science application that analyzes Indian consumer behavior through the lens of UPI (Unified Payments Interface) transactions. By mapping 10 years of historical data into a custom **Discretionary vs. Essential Spending Index**, this tool identifies macroeconomic shocks (like the 2020 lockdowns), festive spending spikes, and day-of-week consumer habits. 
