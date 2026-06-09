@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
+import os
 
 # --- PAGE CONFIGURATION ---
 st.set_page_config(page_title="UPI Spending Analytics", layout="wide")
@@ -11,11 +12,31 @@ st.markdown("Analyzing Indian Consumer Behavior: Discretionary vs. Essential Spe
 # --- LOAD PICKLED DATA ---
 @st.cache_data
 def load_data():
+    
+    # 1. Get the exact folder pathway where this app.py script is located
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # 2. Dynamically attach that folder path to your file names
+    wallet_path = os.path.join(current_dir, 'wallet_share.pkl')
+    index_path = os.path.join(current_dir, 'spending_index.pkl')
+    heat_path = os.path.join(current_dir, 'heatmap_data.pkl')
+    forecast_path = os.path.join(current_dir, 'forecast_data.pkl')
+    
+    # 3. Load the files using the bulletproof paths
+    wallet_share = pd.read_pickle(wallet_path)
+    spending_index = pd.read_pickle(index_path)
+    heatmap_data = pd.read_pickle(heat_path)
+    forecast_data = pd.read_pickle(forecast_path)
+    
+    return wallet_share, spending_index, heatmap_data, forecast_data
+
+    '''
     wallet_share = pd.read_pickle('wallet_share.pkl')
     spending_index = pd.read_pickle('spending_index.pkl')
     heatmap_data = pd.read_pickle('heatmap_data.pkl')
     forecast_data = pd.read_pickle('forecast_data.pkl')
     return wallet_share, spending_index, heatmap_data, forecast_data
+    '''
 
 df_wallet, df_index, df_heat, df_forecast = load_data()
 
