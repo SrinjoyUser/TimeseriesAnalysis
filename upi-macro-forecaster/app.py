@@ -1,3 +1,6 @@
+# Using Sidebar Radio Buttons to Switch Between Project Layers (Phase 1: Macro Trends, Phase 2: AI Customer Segmentation)
+# This is the main Streamlit app that combines both phases into one seamless dashboard with a sidebar
+
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -5,124 +8,200 @@ import plotly.graph_objects as go
 import os
 
 # --- PAGE CONFIGURATION ---
-st.set_page_config(page_title="UPI Spending Analytics", layout="wide")
-st.title("💸 UPI Macro-Economic Spending Dashboard")
-st.markdown("Analyzing Indian Consumer Behavior: Discretionary vs. Essential Spending (2016 - 2026)")
+# Set up page configuration
+st.set_page_config(page_title="UPI Analytics Suite", layout="wide", page_icon="💸")
 
-# --- LOAD PICKLED DATA ---
-@st.cache_data
-def load_data():
-    
-    # 1. Get the exact folder pathway where this app.py script is located
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    
-    # 2. Dynamically attach that folder path to your file names
-    wallet_path = os.path.join(current_dir, 'wallet_share.pkl')
-    index_path = os.path.join(current_dir, 'spending_index.pkl')
-    heat_path = os.path.join(current_dir, 'heatmap_data.pkl')
-    forecast_path = os.path.join(current_dir, 'forecast_data.pkl')
-    
-    # 3. Load the files using the bulletproof paths
-    wallet_share = pd.read_pickle(wallet_path)
-    spending_index = pd.read_pickle(index_path)
-    heatmap_data = pd.read_pickle(heat_path)
-    forecast_data = pd.read_pickle(forecast_path)
-    
-    return wallet_share, spending_index, heatmap_data, forecast_data
+# --- BULLETPROOF DYNAMIC PATHING ---
+current_dir = os.path.dirname(os.path.abspath(__file__))
 
-    '''
-    wallet_share = pd.read_pickle('wallet_share.pkl')
-    spending_index = pd.read_pickle('spending_index.pkl')
-    heatmap_data = pd.read_pickle('heatmap_data.pkl')
-    forecast_data = pd.read_pickle('forecast_data.pkl')
-    return wallet_share, spending_index, heatmap_data, forecast_data
-    '''
+# --- NAVIGATION SIDEBAR ---
+# This creates the "Next Page" functionality you requested
+st.sidebar.title("💳 Navigation")
+st.sidebar.markdown("Switch between project layers:")
+page = st.sidebar.radio("Go to:", ["Macro-Economic Trends", "AI Customer Segmentation"])
 
-df_wallet, df_index, df_heat, df_forecast = load_data()
+# ==============================================================================
+# LAYER 1: MACRO-ECONOMIC TRENDS (PHASE 1)
+# ==============================================================================
 
-# --- SIDEBAR FILTERS ---
-st.sidebar.header("Dashboard Filters")
-available_years = sorted(list(set([month[:4] for month in df_index.index])))
-selected_year = st.sidebar.selectbox("Zoom in on Year:", ["All Time"] + available_years)
+if page == "Macro-Economic Trends":
+    st.title("💸 UPI Macro-Economic Spending Dashboard")
+    st.markdown("### Phase 1: Analyzing Indian Consumer Behavior: Discretionary vs. Essential Spending (2016 - 2026)")
+    st.write("---")
 
-if selected_year != "All Time":
-    df_wallet = df_wallet[df_wallet.index.str.startswith(selected_year)]
-    df_index = df_index[df_index.index.str.startswith(selected_year)]
+    try:
+        # --- LOAD PICKLED DATA ---
+        @st.cache_data
+        def load_data():
+            # 1. Dynamically attach that folder path to your file names
+            wallet_path = os.path.join(current_dir, 'wallet_share.pkl')
+            index_path = os.path.join(current_dir, 'spending_index.pkl')
+            heat_path = os.path.join(current_dir, 'heatmap_data.pkl')
+            forecast_path = os.path.join(current_dir, 'forecast_data.pkl')
+            
+            # 2. Load the files using the bulletproof paths
+            wallet_share = pd.read_pickle(wallet_path)
+            spending_index = pd.read_pickle(index_path)
+            heatmap_data = pd.read_pickle(heat_path)
+            forecast_data = pd.read_pickle(forecast_path)
+            
+            return wallet_share, spending_index, heatmap_data, forecast_data
 
-# --- NEW: EXECUTIVE KPI CARDS ---
-st.header("⚡ Key Performance Indicators (Latest Month)")
+            '''
+            In case of any issues with file paths, you can also load the data using relative paths directly from the current directory.
+            wallet_share = pd.read_pickle('wallet_share.pkl')
+            spending_index = pd.read_pickle('spending_index.pkl')
+            heatmap_data = pd.read_pickle('heatmap_data.pkl')
+            forecast_data = pd.read_pickle('forecast_data.pkl')
+            return wallet_share, spending_index, heatmap_data, forecast_data
+            '''
 
-# Get the last two months of data to calculate Month-over-Month (MoM) growth
-current_month = df_index.iloc[-1]
-prev_month = df_index.iloc[-2]
+        df_wallet, df_index, df_heat, df_forecast = load_data()
 
-# Math for the % change arrows
-disc_growth = ((current_month['Discretionary'] - prev_month['Discretionary']) / prev_month['Discretionary']) * 100
-ess_growth = ((current_month['Essential'] - prev_month['Essential']) / prev_month['Essential']) * 100
-index_growth = ((current_month['Spending_Index'] - prev_month['Spending_Index']) / prev_month['Spending_Index']) * 100
+        # --- SIDEBAR FILTERS ---
+        st.sidebar.header("Dashboard Filters")
+        available_years = sorted(list(set([month[:4] for month in df_index.index])))
+        selected_year = st.sidebar.selectbox("Zoom in on Year:", ["All Time"] + available_years)
 
-col1, col2, col3 = st.columns(3)
-col1.metric(label="Discretionary Spend (Wants)", value=f"₹{current_month['Discretionary']:,.0f}", delta=f"{disc_growth:.1f}% MoM")
-col2.metric(label="Essential Spend (Needs)", value=f"₹{current_month['Essential']:,.0f}", delta=f"{ess_growth:.1f}% MoM", delta_color="inverse") # Inverse because higher essential spend is often inflation/stress
-col3.metric(label="Spending Index Ratio", value=f"{current_month['Spending_Index']:.2f}", delta=f"{index_growth:.1f}% MoM")
-st.markdown("---")
+        if selected_year != "All Time":
+            df_wallet = df_wallet[df_wallet.index.str.startswith(selected_year)]
+            df_index = df_index[df_index.index.str.startswith(selected_year)]
 
-# --- SECTION 1: THE SPENDING INDEX ---
-st.header("📉 The Discretionary vs. Essential Spending Index")
+        # --- NEW: EXECUTIVE KPI CARDS ---
+        st.header("⚡ Key Performance Indicators (Latest Month)")
 
-# Build the interactive Line Chart
-fig_index = go.Figure()
+        # Get the last two months of data to calculate Month-over-Month (MoM) growth
+        current_month = df_index.iloc[-1]
+        prev_month = df_index.iloc[-2]
 
-# Plot the Historical Data (Solid Line)
-fig_index.add_trace(go.Scatter(
-    x=df_index.index, y=df_index['Spending_Index'],
-    mode='lines+markers', name='Historical Index',
-    line=dict(color='royalblue', width=3)
-))
+        # Math for the % change arrows
+        disc_growth = ((current_month['Discretionary'] - prev_month['Discretionary']) / prev_month['Discretionary']) * 100
+        ess_growth = ((current_month['Essential'] - prev_month['Essential']) / prev_month['Essential']) * 100
+        index_growth = ((current_month['Spending_Index'] - prev_month['Spending_Index']) / prev_month['Spending_Index']) * 100
 
-# Plot the AI Forecast (Dotted Line) - THIS IS THE NEW PART!
-fig_index.add_trace(go.Scatter(
-    x=df_forecast.index, y=df_forecast['Predicted_Index'],
-    mode='lines+markers', name='AI Forecast (Next 6 Months)',
-    line=dict(color='orange', width=3, dash='dot') # Dotted orange line indicates the future
-))
+        col1, col2, col3 = st.columns(3)
+        col1.metric(label="Discretionary Spend (Wants)", value=f"₹{current_month['Discretionary']:,.0f}", delta=f"{disc_growth:.1f}% MoM")
+        col2.metric(label="Essential Spend (Needs)", value=f"₹{current_month['Essential']:,.0f}", delta=f"{ess_growth:.1f}% MoM", delta_color="inverse") # Inverse because higher essential spend is often inflation/stress
+        col3.metric(label="Spending Index Ratio", value=f"{current_month['Spending_Index']:.2f}", delta=f"{index_growth:.1f}% MoM")
+        st.markdown("---")
 
-fig_index.add_hline(y=1.0, line_dash="dash", line_color="red", annotation_text="Equilibrium (Wants = Needs)")
-fig_index.update_layout(xaxis_title="Month", yaxis_title="Index Ratio", hovermode="x unified")
-st.plotly_chart(fig_index, use_container_width=True)
+        # --- SECTION 1: THE SPENDING INDEX ---
+        st.header("📉 The Discretionary vs. Essential Spending Index")
 
-# --- SECTION 2: WALLET SHARE DYNAMICS ---
-st.markdown("---")
-st.header("📊 Sector-Wise Wallet Share")
-col_chart1, col_chart2 = st.columns(2)
+        # Build the interactive Line Chart
+        fig_index = go.Figure()
 
-with col_chart1:
-    fig_area = px.area(df_wallet, x=df_wallet.index, y=df_wallet.columns,
-                       labels={'value': 'Wallet Share (%)', 'index': 'Month', 'variable': 'Sector'},
-                       color_discrete_sequence=px.colors.qualitative.Pastel)
-    st.plotly_chart(fig_area, use_container_width=True)
+        # Plot the Historical Data (Solid Line)
+        fig_index.add_trace(go.Scatter(
+            x=df_index.index, y=df_index['Spending_Index'],
+            mode='lines+markers', name='Historical Index',
+            line=dict(color='royalblue', width=3)
+        ))
 
-with col_chart2:
-    selected_month = st.selectbox("Select a Month for Pie Chart:", df_wallet.index)
-    month_data = df_wallet.loc[selected_month]
-    fig_pie = px.pie(values=month_data.values, names=month_data.index, hole=0.4,
-                     color_discrete_sequence=px.colors.qualitative.Pastel)
-    fig_pie.update_traces(textposition='inside', textinfo='percent+label')
-    st.plotly_chart(fig_pie, use_container_width=True)
+        # Plot the AI Forecast (Dotted Line) - THIS IS THE NEW PART!
+        fig_index.add_trace(go.Scatter(
+            x=df_forecast.index, y=df_forecast['Predicted_Index'],
+            mode='lines+markers', name='AI Forecast (Next 6 Months)',
+            line=dict(color='orange', width=3, dash='dot') # Dotted orange line indicates the future
+        ))
 
-# --- NEW: DAY-OF-WEEK HEATMAP ---
-st.markdown("---")
-st.header("🔥 Day-of-Week Sector Heatmap")
-st.markdown("Identifies exactly *when* consumers are spending money to optimize targeted credit card offers.")
+        fig_index.add_hline(y=1.0, line_dash="dash", line_color="red", annotation_text="Equilibrium (Wants = Needs)")
+        fig_index.update_layout(xaxis_title="Month", yaxis_title="Index Ratio", hovermode="x unified")
+        st.plotly_chart(fig_index, use_container_width=True)
 
-# Transpose the dataframe so Days are on the Y-axis and Sectors are on the X-axis
-fig_heat = px.imshow(
-    df_heat.T, 
-    color_continuous_scale="Blues",
-    aspect="auto",
-    labels=dict(x="Day of the Week", y="Business Sector", color="Total Spend (INR)")
-)
-st.plotly_chart(fig_heat, use_container_width=True)
+        # --- SECTION 2: WALLET SHARE DYNAMICS ---
+        st.markdown("---")
+        st.header("📊 Sector-Wise Wallet Share")
+        col_chart1, col_chart2 = st.columns(2)
+
+        with col_chart1:
+            fig_area = px.area(df_wallet, x=df_wallet.index, y=df_wallet.columns,
+                            labels={'value': 'Wallet Share (%)', 'index': 'Month', 'variable': 'Sector'},
+                            color_discrete_sequence=px.colors.qualitative.Pastel)
+            st.plotly_chart(fig_area, use_container_width=True)
+
+        with col_chart2:
+            selected_month = st.selectbox("Select a Month for Pie Chart:", df_wallet.index)
+            month_data = df_wallet.loc[selected_month]
+            fig_pie = px.pie(values=month_data.values, names=month_data.index, hole=0.4,
+                            color_discrete_sequence=px.colors.qualitative.Pastel)
+            fig_pie.update_traces(textposition='inside', textinfo='percent+label')
+            st.plotly_chart(fig_pie, use_container_width=True)
+
+        # --- NEW: DAY-OF-WEEK HEATMAP ---
+        st.markdown("---")
+        st.header("🔥 Day-of-Week Sector Heatmap")
+        st.markdown("Identifies exactly *when* consumers are spending money to optimize targeted credit card offers.")
+
+        # Transpose the dataframe so Days are on the Y-axis and Sectors are on the X-axis
+        fig_heat = px.imshow(
+            df_heat.T, 
+            color_continuous_scale="Blues",
+            aspect="auto",
+            labels=dict(x="Day of the Week", y="Business Sector", color="Total Spend (INR)")
+        )
+        st.plotly_chart(fig_heat, use_container_width=True)
+
+    except Exception as e:
+        st.error(f"Error loading Phase 1 data. Please ensure pickle files exist. {e}")
+
+
+# ==========================================
+# PAGE 2: AI CUSTOMER SEGMENTATION
+# ==========================================
+
+elif page == "AI Customer Segmentation":
+    st.title("🤖 AI-Powered Customer Segmentation")
+    st.markdown("### Phase 2: Unveiling Customer Personas through RFM Clustering")
+    st.write("---")
+
+    try:
+        # Load Phase 2 Data
+        rfm = pd.read_pickle(os.path.join(current_dir, 'user_personas.pkl'))
+        
+        # Summary Stats
+        st.subheader("📋 Persona Overview")
+        summary = rfm.groupby('Persona').size().reset_index(name='User Count')
+        
+        cols = st.columns(4)
+        for i, row in summary.iterrows():
+            cols[i % 4].metric(row['Persona'], f"{row['User Count']} Users")
+
+        # 3D Cluster Plot
+        st.subheader("🌌 3D Behavioral Space")
+        st.markdown("This plot shows how the AI grouped users based on Recency, Frequency, and Monetary value.")
+        fig_3d = px.scatter_3d(
+            rfm, x='Recency', y='Frequency', z='Monetary',
+            color='Persona', opacity=0.7, size_max=5,
+            color_discrete_sequence=px.colors.qualitative.Bold
+        )
+        st.plotly_chart(fig_3d, use_container_width=True)
+
+        st.write("---")
+        # 1. Interactive Data Table Section
+        st.subheader("🔍 Explore Raw Customer Metrics")
+        st.markdown("Search, sort, and filter individual user scores to validate the AI segments.")
+        
+        # Display the interactive dataframe
+        # We use use_container_width to make it look modern
+        st.dataframe(rfm, use_container_width=True)
+
+        # Add a download button for the RFM report
+        @st.cache_data
+        def convert_df(df):
+            return df.to_csv().encode('utf-8')
+        
+        csv = convert_df(rfm)
+        st.download_button(
+            label="Download RFM Report as CSV",
+            data=csv,
+            file_name='upi_customer_segments.csv',
+            mime='text/csv',
+            help="Click to download the segmented user data for marketing campaigns."
+        )
+
+    except Exception as e:
+        st.error(f"Error loading Phase 2 data. Please run the Clustering Notebook first. {e}")
 
 # --- FOOTER ---
 st.markdown("---")

@@ -1,0 +1,2001 @@
+User_ID,Recency,Frequency,Monetary,Cluster,Persona
+User_0001,22,30,47648,0,Elite Whales
+User_0002,1,15,22125,2,Casual Users
+User_0003,58,17,28086,2,Casual Users
+User_0004,23,23,36760,3,Core Mainstream
+User_0005,71,19,31880,2,Casual Users
+User_0006,60,17,19231,2,Casual Users
+User_0007,6,24,24146,2,Casual Users
+User_0008,44,24,33916,3,Core Mainstream
+User_0009,56,24,38963,3,Core Mainstream
+User_0010,47,25,27984,2,Casual Users
+User_0011,19,28,37896,3,Core Mainstream
+User_0012,51,29,36446,3,Core Mainstream
+User_0013,23,26,42877,3,Core Mainstream
+User_0014,37,21,39396,3,Core Mainstream
+User_0015,74,18,32326,2,Casual Users
+User_0016,113,32,47077,0,Elite Whales
+User_0017,15,32,50325,0,Elite Whales
+User_0018,87,27,33299,3,Core Mainstream
+User_0019,52,35,63577,0,Elite Whales
+User_0020,131,12,25819,2,Casual Users
+User_0021,47,32,42913,0,Elite Whales
+User_0022,97,23,37189,3,Core Mainstream
+User_0023,6,27,41278,3,Core Mainstream
+User_0024,3,21,39317,3,Core Mainstream
+User_0025,97,30,63204,0,Elite Whales
+User_0026,23,26,44222,3,Core Mainstream
+User_0027,84,32,49141,0,Elite Whales
+User_0028,177,27,44192,1,Dormant / Churned
+User_0029,194,30,41954,1,Dormant / Churned
+User_0030,3,19,34418,2,Casual Users
+User_0031,43,30,73831,0,Elite Whales
+User_0032,60,29,42625,3,Core Mainstream
+User_0033,9,23,32821,2,Casual Users
+User_0034,49,23,32298,2,Casual Users
+User_0035,176,24,37272,1,Dormant / Churned
+User_0036,222,24,37980,1,Dormant / Churned
+User_0037,52,18,29940,2,Casual Users
+User_0038,270,25,43411,1,Dormant / Churned
+User_0039,110,26,32806,3,Core Mainstream
+User_0040,74,18,25292,2,Casual Users
+User_0041,77,23,33937,2,Casual Users
+User_0042,10,27,48431,3,Core Mainstream
+User_0043,45,25,30443,3,Core Mainstream
+User_0044,72,24,41935,3,Core Mainstream
+User_0045,171,17,21619,1,Dormant / Churned
+User_0046,169,24,38393,1,Dormant / Churned
+User_0047,13,27,61959,0,Elite Whales
+User_0048,261,17,25048,1,Dormant / Churned
+User_0049,143,29,38987,3,Core Mainstream
+User_0050,17,21,40354,3,Core Mainstream
+User_0051,117,22,39207,3,Core Mainstream
+User_0052,98,26,26826,2,Casual Users
+User_0053,3,25,35256,3,Core Mainstream
+User_0054,38,19,35567,2,Casual Users
+User_0055,44,29,48122,0,Elite Whales
+User_0056,69,27,51617,0,Elite Whales
+User_0057,27,25,41469,3,Core Mainstream
+User_0058,8,23,50915,3,Core Mainstream
+User_0059,459,24,41124,1,Dormant / Churned
+User_0060,27,17,26777,2,Casual Users
+User_0061,11,19,17650,2,Casual Users
+User_0062,59,22,25502,2,Casual Users
+User_0063,45,22,48252,3,Core Mainstream
+User_0064,3,22,38714,3,Core Mainstream
+User_0065,87,19,28707,2,Casual Users
+User_0066,32,29,44089,3,Core Mainstream
+User_0067,115,22,35480,2,Casual Users
+User_0068,31,20,37345,2,Casual Users
+User_0069,135,24,27975,1,Dormant / Churned
+User_0070,117,14,25445,2,Casual Users
+User_0071,173,21,30450,1,Dormant / Churned
+User_0072,2,28,51089,0,Elite Whales
+User_0073,15,25,55196,0,Elite Whales
+User_0074,71,31,38007,3,Core Mainstream
+User_0075,140,23,29441,1,Dormant / Churned
+User_0076,227,24,31986,1,Dormant / Churned
+User_0077,64,26,38548,3,Core Mainstream
+User_0078,11,24,41030,3,Core Mainstream
+User_0079,68,35,45849,0,Elite Whales
+User_0080,15,24,37133,3,Core Mainstream
+User_0081,140,17,23122,2,Casual Users
+User_0082,438,26,36925,1,Dormant / Churned
+User_0083,28,25,42398,3,Core Mainstream
+User_0084,147,25,40516,1,Dormant / Churned
+User_0085,82,29,45501,3,Core Mainstream
+User_0086,3,23,25377,2,Casual Users
+User_0087,9,37,67120,0,Elite Whales
+User_0088,61,22,26545,2,Casual Users
+User_0089,49,21,26918,2,Casual Users
+User_0090,35,24,36310,3,Core Mainstream
+User_0091,199,18,30620,1,Dormant / Churned
+User_0092,19,27,38136,3,Core Mainstream
+User_0093,48,25,29306,2,Casual Users
+User_0094,123,14,16957,2,Casual Users
+User_0095,14,29,35406,3,Core Mainstream
+User_0096,45,25,44820,3,Core Mainstream
+User_0097,52,22,32612,2,Casual Users
+User_0098,12,19,20717,2,Casual Users
+User_0099,190,24,39584,1,Dormant / Churned
+User_0100,162,21,24402,1,Dormant / Churned
+User_0101,51,26,43851,3,Core Mainstream
+User_0102,246,16,31031,1,Dormant / Churned
+User_0103,12,24,50386,3,Core Mainstream
+User_0104,90,27,53958,0,Elite Whales
+User_0105,14,28,41114,3,Core Mainstream
+User_0106,15,30,45502,0,Elite Whales
+User_0107,28,32,42409,0,Elite Whales
+User_0108,94,19,26652,2,Casual Users
+User_0109,1,25,42169,3,Core Mainstream
+User_0110,112,24,35663,3,Core Mainstream
+User_0111,50,36,60717,0,Elite Whales
+User_0112,6,30,45122,0,Elite Whales
+User_0113,17,31,30107,3,Core Mainstream
+User_0114,166,27,57897,0,Elite Whales
+User_0115,3,26,33740,3,Core Mainstream
+User_0116,2,25,39997,3,Core Mainstream
+User_0117,38,29,54613,0,Elite Whales
+User_0118,125,30,41418,3,Core Mainstream
+User_0119,13,20,35633,2,Casual Users
+User_0120,9,19,26155,2,Casual Users
+User_0121,10,20,30166,2,Casual Users
+User_0122,132,27,45897,3,Core Mainstream
+User_0123,89,32,34466,3,Core Mainstream
+User_0124,66,16,31795,2,Casual Users
+User_0125,35,29,63541,0,Elite Whales
+User_0126,5,31,45093,0,Elite Whales
+User_0127,91,18,23258,2,Casual Users
+User_0128,48,22,34497,2,Casual Users
+User_0129,81,29,61474,0,Elite Whales
+User_0130,9,20,18024,2,Casual Users
+User_0131,44,23,44463,3,Core Mainstream
+User_0132,5,25,39441,3,Core Mainstream
+User_0133,45,36,70316,0,Elite Whales
+User_0134,45,28,56054,0,Elite Whales
+User_0135,37,19,26929,2,Casual Users
+User_0136,15,22,27912,2,Casual Users
+User_0137,18,27,43010,3,Core Mainstream
+User_0138,12,21,31279,2,Casual Users
+User_0139,72,23,46567,3,Core Mainstream
+User_0140,22,26,30998,3,Core Mainstream
+User_0141,72,28,48926,0,Elite Whales
+User_0142,135,16,16407,2,Casual Users
+User_0143,16,29,34809,3,Core Mainstream
+User_0144,31,21,36336,2,Casual Users
+User_0145,201,17,28684,1,Dormant / Churned
+User_0146,36,26,44206,3,Core Mainstream
+User_0147,23,30,63948,0,Elite Whales
+User_0148,141,21,26434,1,Dormant / Churned
+User_0149,8,36,61861,0,Elite Whales
+User_0150,42,18,25776,2,Casual Users
+User_0151,93,18,25483,2,Casual Users
+User_0152,61,22,20099,2,Casual Users
+User_0153,166,17,30834,1,Dormant / Churned
+User_0154,35,21,36244,2,Casual Users
+User_0155,29,29,40050,3,Core Mainstream
+User_0156,52,26,46664,3,Core Mainstream
+User_0157,105,25,36175,3,Core Mainstream
+User_0158,54,19,24525,2,Casual Users
+User_0159,227,20,36769,1,Dormant / Churned
+User_0160,102,26,47890,3,Core Mainstream
+User_0161,31,25,38797,3,Core Mainstream
+User_0162,10,35,78333,0,Elite Whales
+User_0163,15,22,40997,3,Core Mainstream
+User_0164,6,18,15571,2,Casual Users
+User_0165,154,31,57419,0,Elite Whales
+User_0166,57,26,49147,3,Core Mainstream
+User_0167,94,24,27641,2,Casual Users
+User_0168,13,20,27214,2,Casual Users
+User_0169,18,27,57099,0,Elite Whales
+User_0170,5,19,24487,2,Casual Users
+User_0171,141,21,44526,1,Dormant / Churned
+User_0172,6,20,38673,2,Casual Users
+User_0173,15,29,40799,3,Core Mainstream
+User_0174,30,16,19378,2,Casual Users
+User_0175,2,27,43503,3,Core Mainstream
+User_0176,37,24,31180,2,Casual Users
+User_0177,27,31,40217,3,Core Mainstream
+User_0178,106,16,29309,2,Casual Users
+User_0179,6,37,63938,0,Elite Whales
+User_0180,104,21,27120,2,Casual Users
+User_0181,49,24,36234,3,Core Mainstream
+User_0182,205,18,24929,1,Dormant / Churned
+User_0183,38,22,30807,2,Casual Users
+User_0184,42,19,22960,2,Casual Users
+User_0185,79,16,33107,2,Casual Users
+User_0186,50,29,37902,3,Core Mainstream
+User_0187,74,22,30166,2,Casual Users
+User_0188,21,26,41047,3,Core Mainstream
+User_0189,29,22,37807,3,Core Mainstream
+User_0190,236,17,22478,1,Dormant / Churned
+User_0191,85,19,23916,2,Casual Users
+User_0192,10,27,35935,3,Core Mainstream
+User_0193,18,19,28756,2,Casual Users
+User_0194,182,29,44072,1,Dormant / Churned
+User_0195,85,20,26246,2,Casual Users
+User_0196,132,29,47464,0,Elite Whales
+User_0197,215,18,22322,1,Dormant / Churned
+User_0198,13,25,40167,3,Core Mainstream
+User_0199,30,20,21886,2,Casual Users
+User_0200,28,19,22906,2,Casual Users
+User_0201,2,28,49420,0,Elite Whales
+User_0202,112,34,43330,0,Elite Whales
+User_0203,33,22,35685,2,Casual Users
+User_0204,111,26,35208,3,Core Mainstream
+User_0205,29,24,45213,3,Core Mainstream
+User_0206,70,22,39951,3,Core Mainstream
+User_0207,24,24,40274,3,Core Mainstream
+User_0208,68,20,29381,2,Casual Users
+User_0209,27,31,50947,0,Elite Whales
+User_0210,1,27,40410,3,Core Mainstream
+User_0211,32,23,37649,3,Core Mainstream
+User_0212,96,20,31828,2,Casual Users
+User_0213,5,28,29007,3,Core Mainstream
+User_0214,11,32,51319,0,Elite Whales
+User_0215,120,22,44842,3,Core Mainstream
+User_0216,166,34,55662,0,Elite Whales
+User_0217,17,34,55834,0,Elite Whales
+User_0218,138,19,27937,2,Casual Users
+User_0219,106,21,26775,2,Casual Users
+User_0220,1,27,55752,0,Elite Whales
+User_0221,52,31,57929,0,Elite Whales
+User_0222,114,18,17337,2,Casual Users
+User_0223,98,22,30280,2,Casual Users
+User_0224,19,20,31748,2,Casual Users
+User_0225,10,33,45153,0,Elite Whales
+User_0226,19,28,52847,0,Elite Whales
+User_0227,23,29,41057,3,Core Mainstream
+User_0228,78,23,28483,2,Casual Users
+User_0229,189,25,44464,1,Dormant / Churned
+User_0230,192,21,32576,1,Dormant / Churned
+User_0231,18,29,41038,3,Core Mainstream
+User_0232,215,29,47584,1,Dormant / Churned
+User_0233,67,31,45864,0,Elite Whales
+User_0234,24,30,63200,0,Elite Whales
+User_0235,148,25,53055,3,Core Mainstream
+User_0236,12,20,35347,2,Casual Users
+User_0237,252,20,40662,1,Dormant / Churned
+User_0238,140,18,35005,1,Dormant / Churned
+User_0239,32,30,49426,0,Elite Whales
+User_0240,82,23,39592,3,Core Mainstream
+User_0241,181,17,25576,1,Dormant / Churned
+User_0242,5,22,34942,2,Casual Users
+User_0243,3,26,36056,3,Core Mainstream
+User_0244,46,26,41587,3,Core Mainstream
+User_0245,73,31,42368,0,Elite Whales
+User_0246,43,28,44968,3,Core Mainstream
+User_0247,53,26,33376,3,Core Mainstream
+User_0248,23,21,30568,2,Casual Users
+User_0249,34,19,23691,2,Casual Users
+User_0250,61,25,41113,3,Core Mainstream
+User_0251,282,17,22698,1,Dormant / Churned
+User_0252,160,13,19432,2,Casual Users
+User_0253,30,27,45510,3,Core Mainstream
+User_0254,67,25,35033,3,Core Mainstream
+User_0255,87,26,38077,3,Core Mainstream
+User_0256,5,24,34437,3,Core Mainstream
+User_0257,24,28,39882,3,Core Mainstream
+User_0258,49,25,35172,3,Core Mainstream
+User_0259,43,34,55924,0,Elite Whales
+User_0260,177,23,37204,1,Dormant / Churned
+User_0261,111,20,28250,2,Casual Users
+User_0262,17,28,45425,3,Core Mainstream
+User_0263,64,26,39010,3,Core Mainstream
+User_0264,20,20,25547,2,Casual Users
+User_0265,9,27,51647,0,Elite Whales
+User_0266,8,28,44427,3,Core Mainstream
+User_0267,9,19,28338,2,Casual Users
+User_0268,39,24,23907,2,Casual Users
+User_0269,121,25,42751,3,Core Mainstream
+User_0270,111,34,58243,0,Elite Whales
+User_0271,50,30,46969,0,Elite Whales
+User_0272,86,23,27747,2,Casual Users
+User_0273,4,32,42099,0,Elite Whales
+User_0274,37,24,42868,3,Core Mainstream
+User_0275,12,21,31862,2,Casual Users
+User_0276,11,22,33090,2,Casual Users
+User_0277,10,28,58951,0,Elite Whales
+User_0278,98,26,43806,3,Core Mainstream
+User_0279,54,19,40686,2,Casual Users
+User_0280,96,23,36567,3,Core Mainstream
+User_0281,8,20,22160,2,Casual Users
+User_0282,109,18,25828,2,Casual Users
+User_0283,4,27,30370,3,Core Mainstream
+User_0284,29,19,32249,2,Casual Users
+User_0285,287,24,39006,1,Dormant / Churned
+User_0286,91,18,26284,2,Casual Users
+User_0287,153,20,33536,1,Dormant / Churned
+User_0288,53,24,45336,3,Core Mainstream
+User_0289,18,22,30165,2,Casual Users
+User_0290,47,18,29253,2,Casual Users
+User_0291,38,20,28135,2,Casual Users
+User_0292,17,19,20716,2,Casual Users
+User_0293,23,36,61228,0,Elite Whales
+User_0294,45,22,36801,3,Core Mainstream
+User_0295,12,22,24520,2,Casual Users
+User_0296,5,23,42900,3,Core Mainstream
+User_0297,109,18,24775,2,Casual Users
+User_0298,164,19,25589,1,Dormant / Churned
+User_0299,34,15,30283,2,Casual Users
+User_0300,236,27,46324,1,Dormant / Churned
+User_0301,53,24,42783,3,Core Mainstream
+User_0302,27,30,39994,3,Core Mainstream
+User_0303,50,28,50522,0,Elite Whales
+User_0304,119,27,35061,3,Core Mainstream
+User_0305,62,21,30477,2,Casual Users
+User_0306,71,24,30752,2,Casual Users
+User_0307,15,31,49701,0,Elite Whales
+User_0308,14,32,69117,0,Elite Whales
+User_0309,36,18,30188,2,Casual Users
+User_0310,121,21,36133,2,Casual Users
+User_0311,31,26,27350,3,Core Mainstream
+User_0312,9,21,30668,2,Casual Users
+User_0313,160,18,35998,1,Dormant / Churned
+User_0314,63,26,39564,3,Core Mainstream
+User_0315,10,21,20474,2,Casual Users
+User_0316,126,22,31607,2,Casual Users
+User_0317,67,29,42610,3,Core Mainstream
+User_0318,15,26,37310,3,Core Mainstream
+User_0319,133,19,33988,1,Dormant / Churned
+User_0320,2,29,53355,0,Elite Whales
+User_0321,25,21,35533,2,Casual Users
+User_0322,13,18,28274,2,Casual Users
+User_0323,11,21,26735,2,Casual Users
+User_0324,26,25,36802,3,Core Mainstream
+User_0325,49,27,39791,3,Core Mainstream
+User_0326,164,18,28612,1,Dormant / Churned
+User_0327,19,28,44036,3,Core Mainstream
+User_0328,63,26,41854,3,Core Mainstream
+User_0329,5,27,39788,3,Core Mainstream
+User_0330,91,30,44053,3,Core Mainstream
+User_0331,36,25,45271,3,Core Mainstream
+User_0332,23,23,39118,3,Core Mainstream
+User_0333,35,33,53983,0,Elite Whales
+User_0334,8,26,35905,3,Core Mainstream
+User_0335,61,22,39550,3,Core Mainstream
+User_0336,3,26,38937,3,Core Mainstream
+User_0337,367,14,17242,1,Dormant / Churned
+User_0338,14,21,30031,2,Casual Users
+User_0339,8,30,64374,0,Elite Whales
+User_0340,37,23,31871,2,Casual Users
+User_0341,105,21,40433,3,Core Mainstream
+User_0342,70,26,46505,3,Core Mainstream
+User_0343,45,32,42968,0,Elite Whales
+User_0344,41,33,49527,0,Elite Whales
+User_0345,30,24,51179,3,Core Mainstream
+User_0346,1,15,25678,2,Casual Users
+User_0347,173,21,35247,1,Dormant / Churned
+User_0348,112,27,46470,3,Core Mainstream
+User_0349,65,26,46694,3,Core Mainstream
+User_0350,14,23,42490,3,Core Mainstream
+User_0351,4,33,57522,0,Elite Whales
+User_0352,14,13,22976,2,Casual Users
+User_0353,13,23,28920,2,Casual Users
+User_0354,91,19,29593,2,Casual Users
+User_0355,105,22,44883,3,Core Mainstream
+User_0356,1,30,24288,3,Core Mainstream
+User_0357,3,35,69162,0,Elite Whales
+User_0358,59,25,38398,3,Core Mainstream
+User_0359,73,18,30023,2,Casual Users
+User_0360,7,26,37097,3,Core Mainstream
+User_0361,41,21,38010,3,Core Mainstream
+User_0362,18,23,39922,3,Core Mainstream
+User_0363,50,27,42022,3,Core Mainstream
+User_0364,66,26,46823,3,Core Mainstream
+User_0365,79,28,39550,3,Core Mainstream
+User_0366,22,25,51421,3,Core Mainstream
+User_0367,2,28,46889,3,Core Mainstream
+User_0368,22,34,46812,0,Elite Whales
+User_0369,79,25,39026,3,Core Mainstream
+User_0370,20,18,30199,2,Casual Users
+User_0371,2,26,50577,3,Core Mainstream
+User_0372,13,21,35514,2,Casual Users
+User_0373,48,27,42128,3,Core Mainstream
+User_0374,48,20,20139,2,Casual Users
+User_0375,72,33,46741,0,Elite Whales
+User_0376,16,31,48086,0,Elite Whales
+User_0377,44,27,39286,3,Core Mainstream
+User_0378,88,22,23173,2,Casual Users
+User_0379,69,25,36501,3,Core Mainstream
+User_0380,22,23,37321,3,Core Mainstream
+User_0381,2,33,50983,0,Elite Whales
+User_0382,27,27,37550,3,Core Mainstream
+User_0383,107,25,46877,3,Core Mainstream
+User_0384,48,29,47334,0,Elite Whales
+User_0385,60,24,38176,3,Core Mainstream
+User_0386,6,18,28964,2,Casual Users
+User_0387,6,36,55611,0,Elite Whales
+User_0388,123,23,33961,1,Dormant / Churned
+User_0389,8,23,36575,3,Core Mainstream
+User_0390,14,23,26901,2,Casual Users
+User_0391,25,26,27237,3,Core Mainstream
+User_0392,10,31,47672,0,Elite Whales
+User_0393,57,27,33093,3,Core Mainstream
+User_0394,46,24,38624,3,Core Mainstream
+User_0395,39,30,48892,0,Elite Whales
+User_0396,7,32,53548,0,Elite Whales
+User_0397,35,31,50715,0,Elite Whales
+User_0398,224,22,27363,1,Dormant / Churned
+User_0399,6,40,64292,0,Elite Whales
+User_0400,47,19,34109,2,Casual Users
+User_0401,8,26,50768,3,Core Mainstream
+User_0402,104,21,18793,2,Casual Users
+User_0403,87,25,32750,3,Core Mainstream
+User_0404,94,26,37282,3,Core Mainstream
+User_0405,55,24,33749,3,Core Mainstream
+User_0406,10,24,35023,3,Core Mainstream
+User_0407,37,22,31959,2,Casual Users
+User_0408,132,22,35847,1,Dormant / Churned
+User_0409,64,17,23147,2,Casual Users
+User_0410,21,24,34409,3,Core Mainstream
+User_0411,31,14,23532,2,Casual Users
+User_0412,35,28,59184,0,Elite Whales
+User_0413,126,23,37454,1,Dormant / Churned
+User_0414,24,21,19621,2,Casual Users
+User_0415,85,25,53167,3,Core Mainstream
+User_0416,14,27,49893,3,Core Mainstream
+User_0417,10,14,24216,2,Casual Users
+User_0418,314,14,24470,1,Dormant / Churned
+User_0419,7,24,28906,2,Casual Users
+User_0420,4,35,62236,0,Elite Whales
+User_0421,6,33,63839,0,Elite Whales
+User_0422,300,24,45012,1,Dormant / Churned
+User_0423,51,23,41384,3,Core Mainstream
+User_0424,58,14,27557,2,Casual Users
+User_0425,32,20,27807,2,Casual Users
+User_0426,18,30,44366,0,Elite Whales
+User_0427,57,22,30627,2,Casual Users
+User_0428,147,28,43622,3,Core Mainstream
+User_0429,155,17,21782,1,Dormant / Churned
+User_0430,10,21,36567,2,Casual Users
+User_0431,14,22,34490,2,Casual Users
+User_0432,48,24,38957,3,Core Mainstream
+User_0433,222,21,27716,1,Dormant / Churned
+User_0434,24,31,43142,0,Elite Whales
+User_0435,21,24,37905,3,Core Mainstream
+User_0436,207,21,25278,1,Dormant / Churned
+User_0437,3,15,32801,2,Casual Users
+User_0438,31,24,33662,3,Core Mainstream
+User_0439,16,19,24937,2,Casual Users
+User_0440,214,16,30908,1,Dormant / Churned
+User_0441,103,25,58164,0,Elite Whales
+User_0442,44,21,30689,2,Casual Users
+User_0443,24,26,51416,3,Core Mainstream
+User_0444,3,29,55623,0,Elite Whales
+User_0445,3,28,46793,3,Core Mainstream
+User_0446,60,27,35019,3,Core Mainstream
+User_0447,7,36,57466,0,Elite Whales
+User_0448,31,17,28332,2,Casual Users
+User_0449,13,23,22840,2,Casual Users
+User_0450,4,34,67784,0,Elite Whales
+User_0451,239,20,25670,1,Dormant / Churned
+User_0452,26,23,32523,2,Casual Users
+User_0453,24,30,37755,3,Core Mainstream
+User_0454,15,26,49283,3,Core Mainstream
+User_0455,65,31,42776,0,Elite Whales
+User_0456,210,26,32006,1,Dormant / Churned
+User_0457,125,29,47668,0,Elite Whales
+User_0458,88,21,39003,3,Core Mainstream
+User_0459,233,23,27802,1,Dormant / Churned
+User_0460,22,27,38956,3,Core Mainstream
+User_0461,4,25,48492,3,Core Mainstream
+User_0462,14,26,38829,3,Core Mainstream
+User_0463,128,23,42242,3,Core Mainstream
+User_0464,224,34,47244,1,Dormant / Churned
+User_0465,22,25,34373,3,Core Mainstream
+User_0466,48,30,53004,0,Elite Whales
+User_0467,11,20,29458,2,Casual Users
+User_0468,69,24,24361,2,Casual Users
+User_0469,63,15,24087,2,Casual Users
+User_0470,48,14,19942,2,Casual Users
+User_0471,66,30,30163,3,Core Mainstream
+User_0472,70,20,39419,2,Casual Users
+User_0473,42,26,50594,3,Core Mainstream
+User_0474,14,25,42970,3,Core Mainstream
+User_0475,51,28,35679,3,Core Mainstream
+User_0476,19,29,48354,0,Elite Whales
+User_0477,9,25,32632,3,Core Mainstream
+User_0478,36,22,38977,3,Core Mainstream
+User_0479,13,24,29531,2,Casual Users
+User_0480,39,22,31622,2,Casual Users
+User_0481,108,26,37221,3,Core Mainstream
+User_0482,283,24,42303,1,Dormant / Churned
+User_0483,53,29,38709,3,Core Mainstream
+User_0484,49,24,37329,3,Core Mainstream
+User_0485,71,23,29006,2,Casual Users
+User_0486,101,24,29080,2,Casual Users
+User_0487,32,21,44021,3,Core Mainstream
+User_0488,22,18,21843,2,Casual Users
+User_0489,40,27,38716,3,Core Mainstream
+User_0490,171,18,32192,1,Dormant / Churned
+User_0491,98,30,50954,0,Elite Whales
+User_0492,61,23,40110,3,Core Mainstream
+User_0493,28,25,39458,3,Core Mainstream
+User_0494,244,20,19085,1,Dormant / Churned
+User_0495,189,25,42914,1,Dormant / Churned
+User_0496,23,19,37390,2,Casual Users
+User_0497,53,31,49500,0,Elite Whales
+User_0498,39,29,47526,0,Elite Whales
+User_0499,15,24,35543,3,Core Mainstream
+User_0500,19,24,27636,2,Casual Users
+User_0501,261,21,14064,1,Dormant / Churned
+User_0502,21,24,29214,2,Casual Users
+User_0503,63,27,31848,3,Core Mainstream
+User_0504,7,25,41751,3,Core Mainstream
+User_0505,137,21,29980,1,Dormant / Churned
+User_0506,29,23,41989,3,Core Mainstream
+User_0507,14,17,26407,2,Casual Users
+User_0508,43,32,49371,0,Elite Whales
+User_0509,42,38,64172,0,Elite Whales
+User_0510,70,17,23472,2,Casual Users
+User_0511,65,34,57684,0,Elite Whales
+User_0512,7,26,39528,3,Core Mainstream
+User_0513,16,20,38141,2,Casual Users
+User_0514,237,19,28359,1,Dormant / Churned
+User_0515,133,30,54920,0,Elite Whales
+User_0516,50,34,61096,0,Elite Whales
+User_0517,17,20,31729,2,Casual Users
+User_0518,31,31,43325,0,Elite Whales
+User_0519,112,21,39474,3,Core Mainstream
+User_0520,10,24,37464,3,Core Mainstream
+User_0521,10,31,53659,0,Elite Whales
+User_0522,26,27,45573,3,Core Mainstream
+User_0523,28,28,28951,3,Core Mainstream
+User_0524,89,25,38275,3,Core Mainstream
+User_0525,95,33,41314,0,Elite Whales
+User_0526,5,21,30801,2,Casual Users
+User_0527,6,23,34934,3,Core Mainstream
+User_0528,27,38,48756,0,Elite Whales
+User_0529,18,27,39850,3,Core Mainstream
+User_0530,8,28,40156,3,Core Mainstream
+User_0531,49,32,50136,0,Elite Whales
+User_0532,69,20,28952,2,Casual Users
+User_0533,76,26,41529,3,Core Mainstream
+User_0534,68,23,36365,3,Core Mainstream
+User_0535,77,24,45728,3,Core Mainstream
+User_0536,116,26,49365,3,Core Mainstream
+User_0537,84,20,33449,2,Casual Users
+User_0538,32,22,35161,2,Casual Users
+User_0539,158,15,26715,1,Dormant / Churned
+User_0540,75,32,44826,0,Elite Whales
+User_0541,55,25,29722,3,Core Mainstream
+User_0542,26,31,43904,0,Elite Whales
+User_0543,123,27,54435,0,Elite Whales
+User_0544,253,17,22003,1,Dormant / Churned
+User_0545,360,17,22221,1,Dormant / Churned
+User_0546,28,28,52958,0,Elite Whales
+User_0547,24,30,49609,0,Elite Whales
+User_0548,5,20,29140,2,Casual Users
+User_0549,6,28,41365,3,Core Mainstream
+User_0550,65,23,37351,3,Core Mainstream
+User_0551,83,25,47362,3,Core Mainstream
+User_0552,169,23,40276,1,Dormant / Churned
+User_0553,15,30,47397,0,Elite Whales
+User_0554,105,29,55204,0,Elite Whales
+User_0555,95,21,25884,2,Casual Users
+User_0556,159,25,36547,1,Dormant / Churned
+User_0557,20,30,54020,0,Elite Whales
+User_0558,25,25,46656,3,Core Mainstream
+User_0559,197,26,37918,1,Dormant / Churned
+User_0560,2,36,69570,0,Elite Whales
+User_0561,6,38,75490,0,Elite Whales
+User_0562,35,25,30508,3,Core Mainstream
+User_0563,93,21,23041,2,Casual Users
+User_0564,29,23,33070,2,Casual Users
+User_0565,91,27,34293,3,Core Mainstream
+User_0566,17,29,43197,3,Core Mainstream
+User_0567,55,20,31873,2,Casual Users
+User_0568,92,26,30960,3,Core Mainstream
+User_0569,117,24,36468,3,Core Mainstream
+User_0570,38,33,43040,0,Elite Whales
+User_0571,266,24,35701,1,Dormant / Churned
+User_0572,72,18,19490,2,Casual Users
+User_0573,25,30,37594,3,Core Mainstream
+User_0574,301,22,33491,1,Dormant / Churned
+User_0575,3,30,42195,3,Core Mainstream
+User_0576,22,27,32781,3,Core Mainstream
+User_0577,31,17,25864,2,Casual Users
+User_0578,53,25,36411,3,Core Mainstream
+User_0579,42,30,41516,3,Core Mainstream
+User_0580,137,31,47035,0,Elite Whales
+User_0581,45,24,45748,3,Core Mainstream
+User_0582,480,23,35849,1,Dormant / Churned
+User_0583,25,26,43578,3,Core Mainstream
+User_0584,13,25,36299,3,Core Mainstream
+User_0585,26,25,41037,3,Core Mainstream
+User_0586,3,27,35829,3,Core Mainstream
+User_0587,68,17,26839,2,Casual Users
+User_0588,164,31,40861,1,Dormant / Churned
+User_0589,42,27,42464,3,Core Mainstream
+User_0590,124,28,42814,3,Core Mainstream
+User_0591,139,14,20130,2,Casual Users
+User_0592,12,32,47094,0,Elite Whales
+User_0593,37,26,43583,3,Core Mainstream
+User_0594,3,24,40551,3,Core Mainstream
+User_0595,74,23,35498,3,Core Mainstream
+User_0596,140,24,52107,3,Core Mainstream
+User_0597,7,24,38790,3,Core Mainstream
+User_0598,11,25,24375,2,Casual Users
+User_0599,46,26,42829,3,Core Mainstream
+User_0600,58,23,33803,2,Casual Users
+User_0601,103,30,43281,3,Core Mainstream
+User_0602,38,25,30612,3,Core Mainstream
+User_0603,18,20,26643,2,Casual Users
+User_0604,115,19,28745,2,Casual Users
+User_0605,49,25,41569,3,Core Mainstream
+User_0606,68,31,44553,0,Elite Whales
+User_0607,28,23,40311,3,Core Mainstream
+User_0608,20,26,26585,2,Casual Users
+User_0609,29,19,25958,2,Casual Users
+User_0610,192,21,30905,1,Dormant / Churned
+User_0611,8,19,26601,2,Casual Users
+User_0612,2,30,42124,3,Core Mainstream
+User_0613,31,23,37489,3,Core Mainstream
+User_0614,103,26,41167,3,Core Mainstream
+User_0615,32,30,40046,3,Core Mainstream
+User_0616,109,20,29787,2,Casual Users
+User_0617,116,23,27536,2,Casual Users
+User_0618,9,36,51789,0,Elite Whales
+User_0619,92,26,42861,3,Core Mainstream
+User_0620,16,31,38765,3,Core Mainstream
+User_0621,129,33,46923,0,Elite Whales
+User_0622,29,18,18760,2,Casual Users
+User_0623,5,34,51603,0,Elite Whales
+User_0624,33,33,62842,0,Elite Whales
+User_0625,135,22,27268,1,Dormant / Churned
+User_0626,55,24,33574,3,Core Mainstream
+User_0627,19,27,37004,3,Core Mainstream
+User_0628,28,33,48020,0,Elite Whales
+User_0629,73,20,24247,2,Casual Users
+User_0630,70,26,49280,3,Core Mainstream
+User_0631,3,12,26506,2,Casual Users
+User_0632,30,30,48024,0,Elite Whales
+User_0633,226,25,36665,1,Dormant / Churned
+User_0634,105,31,46803,0,Elite Whales
+User_0635,25,22,23559,2,Casual Users
+User_0636,11,12,24683,2,Casual Users
+User_0637,27,29,45447,3,Core Mainstream
+User_0638,58,26,30316,3,Core Mainstream
+User_0639,17,35,38267,0,Elite Whales
+User_0640,5,29,53348,0,Elite Whales
+User_0641,61,17,27965,2,Casual Users
+User_0642,128,20,37437,1,Dormant / Churned
+User_0643,18,22,27429,2,Casual Users
+User_0644,23,21,34314,2,Casual Users
+User_0645,90,18,23739,2,Casual Users
+User_0646,34,26,38789,3,Core Mainstream
+User_0647,155,23,46316,1,Dormant / Churned
+User_0648,6,17,27144,2,Casual Users
+User_0649,38,31,43269,0,Elite Whales
+User_0650,4,23,29827,2,Casual Users
+User_0651,6,26,50190,3,Core Mainstream
+User_0652,21,24,34191,3,Core Mainstream
+User_0653,200,26,39312,1,Dormant / Churned
+User_0654,13,23,41805,3,Core Mainstream
+User_0655,27,25,36339,3,Core Mainstream
+User_0656,81,25,33900,3,Core Mainstream
+User_0657,58,33,40908,0,Elite Whales
+User_0658,8,29,45526,3,Core Mainstream
+User_0659,51,20,35524,2,Casual Users
+User_0660,80,21,29100,2,Casual Users
+User_0661,12,32,48437,0,Elite Whales
+User_0662,110,33,56110,0,Elite Whales
+User_0663,7,26,22702,2,Casual Users
+User_0664,6,32,41883,0,Elite Whales
+User_0665,112,24,43003,3,Core Mainstream
+User_0666,23,27,44899,3,Core Mainstream
+User_0667,62,19,23112,2,Casual Users
+User_0668,11,25,43854,3,Core Mainstream
+User_0669,141,19,22659,2,Casual Users
+User_0670,149,25,45850,1,Dormant / Churned
+User_0671,38,17,13547,2,Casual Users
+User_0672,75,26,32306,3,Core Mainstream
+User_0673,63,27,46678,3,Core Mainstream
+User_0674,228,25,38662,1,Dormant / Churned
+User_0675,79,21,26982,2,Casual Users
+User_0676,8,23,45569,3,Core Mainstream
+User_0677,38,20,43991,3,Core Mainstream
+User_0678,168,21,45458,1,Dormant / Churned
+User_0679,98,22,37760,3,Core Mainstream
+User_0680,91,28,46363,3,Core Mainstream
+User_0681,10,20,23180,2,Casual Users
+User_0682,14,16,18164,2,Casual Users
+User_0683,235,19,31272,1,Dormant / Churned
+User_0684,11,26,35357,3,Core Mainstream
+User_0685,35,39,63935,0,Elite Whales
+User_0686,18,23,33898,3,Core Mainstream
+User_0687,196,23,43541,1,Dormant / Churned
+User_0688,18,24,38131,3,Core Mainstream
+User_0689,49,24,37883,3,Core Mainstream
+User_0690,2,35,72003,0,Elite Whales
+User_0691,14,31,50015,0,Elite Whales
+User_0692,7,23,35166,3,Core Mainstream
+User_0693,109,17,25995,2,Casual Users
+User_0694,119,30,34985,3,Core Mainstream
+User_0695,78,21,36702,2,Casual Users
+User_0696,29,18,24503,2,Casual Users
+User_0697,66,21,31682,2,Casual Users
+User_0698,172,30,43977,1,Dormant / Churned
+User_0699,6,27,35810,3,Core Mainstream
+User_0700,18,28,46261,3,Core Mainstream
+User_0701,22,23,29371,2,Casual Users
+User_0702,22,30,40550,3,Core Mainstream
+User_0703,109,32,58171,0,Elite Whales
+User_0704,19,27,32781,3,Core Mainstream
+User_0705,72,27,40722,3,Core Mainstream
+User_0706,69,20,15770,2,Casual Users
+User_0707,102,22,39727,3,Core Mainstream
+User_0708,254,27,60507,1,Dormant / Churned
+User_0709,65,22,35751,2,Casual Users
+User_0710,184,24,43798,1,Dormant / Churned
+User_0711,17,22,28904,2,Casual Users
+User_0712,90,21,41079,3,Core Mainstream
+User_0713,29,24,34015,3,Core Mainstream
+User_0714,98,22,43331,3,Core Mainstream
+User_0715,41,24,41292,3,Core Mainstream
+User_0716,28,25,36756,3,Core Mainstream
+User_0717,1,29,42304,3,Core Mainstream
+User_0718,142,31,41361,3,Core Mainstream
+User_0719,56,22,34435,2,Casual Users
+User_0720,160,23,34351,1,Dormant / Churned
+User_0721,59,29,40560,3,Core Mainstream
+User_0722,157,23,36577,1,Dormant / Churned
+User_0723,23,24,35350,3,Core Mainstream
+User_0724,8,20,28760,2,Casual Users
+User_0725,8,18,17412,2,Casual Users
+User_0726,71,35,61778,0,Elite Whales
+User_0727,60,29,41762,3,Core Mainstream
+User_0728,59,29,51048,0,Elite Whales
+User_0729,100,18,33410,2,Casual Users
+User_0730,271,29,28951,1,Dormant / Churned
+User_0731,131,22,30565,1,Dormant / Churned
+User_0732,68,29,42684,3,Core Mainstream
+User_0733,178,28,53581,0,Elite Whales
+User_0734,64,14,21234,2,Casual Users
+User_0735,45,27,22403,2,Casual Users
+User_0736,51,19,24337,2,Casual Users
+User_0737,45,21,22359,2,Casual Users
+User_0738,4,28,24354,3,Core Mainstream
+User_0739,12,24,44325,3,Core Mainstream
+User_0740,86,26,39405,3,Core Mainstream
+User_0741,42,24,52416,3,Core Mainstream
+User_0742,109,24,34987,3,Core Mainstream
+User_0743,46,26,44418,3,Core Mainstream
+User_0744,14,27,47395,3,Core Mainstream
+User_0745,48,18,26840,2,Casual Users
+User_0746,128,29,56595,0,Elite Whales
+User_0747,72,22,36436,3,Core Mainstream
+User_0748,189,20,41586,1,Dormant / Churned
+User_0749,6,24,36919,3,Core Mainstream
+User_0750,42,20,23898,2,Casual Users
+User_0751,52,21,46341,3,Core Mainstream
+User_0752,85,23,32571,2,Casual Users
+User_0753,14,22,35250,2,Casual Users
+User_0754,23,32,38906,3,Core Mainstream
+User_0755,15,21,31872,2,Casual Users
+User_0756,39,26,37844,3,Core Mainstream
+User_0757,49,32,51261,0,Elite Whales
+User_0758,1,26,24975,2,Casual Users
+User_0759,17,27,44652,3,Core Mainstream
+User_0760,175,17,26559,1,Dormant / Churned
+User_0761,6,35,55536,0,Elite Whales
+User_0762,186,31,40356,1,Dormant / Churned
+User_0763,1,31,55301,0,Elite Whales
+User_0764,11,27,30979,3,Core Mainstream
+User_0765,48,29,46451,0,Elite Whales
+User_0766,47,21,29800,2,Casual Users
+User_0767,13,22,36425,3,Core Mainstream
+User_0768,52,32,59925,0,Elite Whales
+User_0769,234,20,29861,1,Dormant / Churned
+User_0770,1,37,51158,0,Elite Whales
+User_0771,4,24,37365,3,Core Mainstream
+User_0772,64,16,14699,2,Casual Users
+User_0773,199,20,25517,1,Dormant / Churned
+User_0774,25,28,34061,3,Core Mainstream
+User_0775,42,25,42320,3,Core Mainstream
+User_0776,112,29,42649,3,Core Mainstream
+User_0777,94,21,29417,2,Casual Users
+User_0778,5,25,44083,3,Core Mainstream
+User_0779,34,21,40638,3,Core Mainstream
+User_0780,219,25,30536,1,Dormant / Churned
+User_0781,181,25,33220,1,Dormant / Churned
+User_0782,4,14,12094,2,Casual Users
+User_0783,25,27,37072,3,Core Mainstream
+User_0784,34,23,46637,3,Core Mainstream
+User_0785,4,26,22572,2,Casual Users
+User_0786,185,22,38341,1,Dormant / Churned
+User_0787,32,25,31586,3,Core Mainstream
+User_0788,74,20,21181,2,Casual Users
+User_0789,37,16,23420,2,Casual Users
+User_0790,5,23,22784,2,Casual Users
+User_0791,13,33,50574,0,Elite Whales
+User_0792,92,25,38908,3,Core Mainstream
+User_0793,2,27,25640,3,Core Mainstream
+User_0794,47,39,64720,0,Elite Whales
+User_0795,35,18,24849,2,Casual Users
+User_0796,3,24,41859,3,Core Mainstream
+User_0797,21,28,34403,3,Core Mainstream
+User_0798,1,33,61265,0,Elite Whales
+User_0799,107,28,35042,3,Core Mainstream
+User_0800,123,22,35476,1,Dormant / Churned
+User_0801,49,24,41853,3,Core Mainstream
+User_0802,150,26,41067,1,Dormant / Churned
+User_0803,122,21,20541,2,Casual Users
+User_0804,56,28,28050,3,Core Mainstream
+User_0805,12,26,37972,3,Core Mainstream
+User_0806,21,33,42008,0,Elite Whales
+User_0807,39,21,47748,3,Core Mainstream
+User_0808,23,15,20653,2,Casual Users
+User_0809,109,24,35688,3,Core Mainstream
+User_0810,44,28,51154,0,Elite Whales
+User_0811,68,17,30705,2,Casual Users
+User_0812,50,23,22670,2,Casual Users
+User_0813,4,18,24808,2,Casual Users
+User_0814,3,31,42398,0,Elite Whales
+User_0815,3,23,29429,2,Casual Users
+User_0816,7,40,59944,0,Elite Whales
+User_0817,20,15,20691,2,Casual Users
+User_0818,98,24,40890,3,Core Mainstream
+User_0819,86,26,39713,3,Core Mainstream
+User_0820,2,28,46130,3,Core Mainstream
+User_0821,36,28,51911,0,Elite Whales
+User_0822,149,28,43529,3,Core Mainstream
+User_0823,80,23,35034,3,Core Mainstream
+User_0824,70,27,50042,3,Core Mainstream
+User_0825,13,25,46245,3,Core Mainstream
+User_0826,137,27,33131,1,Dormant / Churned
+User_0827,132,22,20021,2,Casual Users
+User_0828,12,33,60276,0,Elite Whales
+User_0829,184,10,21379,1,Dormant / Churned
+User_0830,6,22,35714,3,Core Mainstream
+User_0831,24,28,31562,3,Core Mainstream
+User_0832,20,22,38857,3,Core Mainstream
+User_0833,25,25,35601,3,Core Mainstream
+User_0834,80,24,43400,3,Core Mainstream
+User_0835,394,26,26751,1,Dormant / Churned
+User_0836,25,29,45405,3,Core Mainstream
+User_0837,26,27,45239,3,Core Mainstream
+User_0838,7,28,39164,3,Core Mainstream
+User_0839,101,30,51025,0,Elite Whales
+User_0840,65,25,41146,3,Core Mainstream
+User_0841,147,24,36828,1,Dormant / Churned
+User_0842,19,24,40490,3,Core Mainstream
+User_0843,4,18,32858,2,Casual Users
+User_0844,84,23,37930,3,Core Mainstream
+User_0845,43,27,42647,3,Core Mainstream
+User_0846,129,30,51587,0,Elite Whales
+User_0847,60,24,52491,3,Core Mainstream
+User_0848,60,27,38302,3,Core Mainstream
+User_0849,3,37,44004,0,Elite Whales
+User_0850,12,32,29072,3,Core Mainstream
+User_0851,12,21,44971,3,Core Mainstream
+User_0852,4,25,53049,3,Core Mainstream
+User_0853,52,22,43437,3,Core Mainstream
+User_0854,74,23,43704,3,Core Mainstream
+User_0855,6,31,44102,0,Elite Whales
+User_0856,28,28,38014,3,Core Mainstream
+User_0857,92,19,38570,2,Casual Users
+User_0858,48,28,44150,3,Core Mainstream
+User_0859,140,30,48858,0,Elite Whales
+User_0860,65,15,27729,2,Casual Users
+User_0861,34,25,32138,3,Core Mainstream
+User_0862,22,25,58302,0,Elite Whales
+User_0863,7,25,40316,3,Core Mainstream
+User_0864,27,28,38391,3,Core Mainstream
+User_0865,171,25,33567,1,Dormant / Churned
+User_0866,137,17,27479,2,Casual Users
+User_0867,131,23,34827,1,Dormant / Churned
+User_0868,42,30,46153,0,Elite Whales
+User_0869,61,32,51305,0,Elite Whales
+User_0870,69,30,46771,0,Elite Whales
+User_0871,161,33,56474,0,Elite Whales
+User_0872,44,29,39431,3,Core Mainstream
+User_0873,312,19,24045,1,Dormant / Churned
+User_0874,44,30,55799,0,Elite Whales
+User_0875,25,26,35341,3,Core Mainstream
+User_0876,98,29,36693,3,Core Mainstream
+User_0877,7,27,37078,3,Core Mainstream
+User_0878,15,30,23307,3,Core Mainstream
+User_0879,363,21,30134,1,Dormant / Churned
+User_0880,1,16,21842,2,Casual Users
+User_0881,7,30,49244,0,Elite Whales
+User_0882,149,22,29794,1,Dormant / Churned
+User_0883,53,30,37170,3,Core Mainstream
+User_0884,127,25,41166,3,Core Mainstream
+User_0885,38,17,30102,2,Casual Users
+User_0886,1,28,45177,3,Core Mainstream
+User_0887,279,19,23118,1,Dormant / Churned
+User_0888,116,22,32432,2,Casual Users
+User_0889,124,23,28288,2,Casual Users
+User_0890,67,19,23255,2,Casual Users
+User_0891,50,25,32740,3,Core Mainstream
+User_0892,19,35,46798,0,Elite Whales
+User_0893,79,29,57107,0,Elite Whales
+User_0894,102,21,24777,2,Casual Users
+User_0895,24,21,39608,3,Core Mainstream
+User_0896,9,27,27070,3,Core Mainstream
+User_0897,51,26,40554,3,Core Mainstream
+User_0898,5,41,72547,0,Elite Whales
+User_0899,9,33,49219,0,Elite Whales
+User_0900,40,30,49538,0,Elite Whales
+User_0901,13,27,39164,3,Core Mainstream
+User_0902,23,25,39676,3,Core Mainstream
+User_0903,22,26,35580,3,Core Mainstream
+User_0904,2,23,29578,2,Casual Users
+User_0905,3,26,42647,3,Core Mainstream
+User_0906,426,18,27044,1,Dormant / Churned
+User_0907,156,25,30790,1,Dormant / Churned
+User_0908,90,24,28379,2,Casual Users
+User_0909,27,18,37079,2,Casual Users
+User_0910,8,25,39789,3,Core Mainstream
+User_0911,94,25,22412,2,Casual Users
+User_0912,84,25,51257,3,Core Mainstream
+User_0913,10,30,55253,0,Elite Whales
+User_0914,126,20,51920,3,Core Mainstream
+User_0915,44,28,43830,3,Core Mainstream
+User_0916,20,30,45337,0,Elite Whales
+User_0917,7,34,50765,0,Elite Whales
+User_0918,12,22,38535,3,Core Mainstream
+User_0919,28,26,42125,3,Core Mainstream
+User_0920,57,25,50179,3,Core Mainstream
+User_0921,173,27,41035,1,Dormant / Churned
+User_0922,12,23,46521,3,Core Mainstream
+User_0923,2,23,33433,3,Core Mainstream
+User_0924,36,30,44624,0,Elite Whales
+User_0925,15,32,59080,0,Elite Whales
+User_0926,182,28,54575,0,Elite Whales
+User_0927,163,13,14041,2,Casual Users
+User_0928,33,23,33735,3,Core Mainstream
+User_0929,20,29,38888,3,Core Mainstream
+User_0930,17,32,36286,3,Core Mainstream
+User_0931,1,30,29287,3,Core Mainstream
+User_0932,55,24,42829,3,Core Mainstream
+User_0933,22,17,34909,2,Casual Users
+User_0934,54,26,35200,3,Core Mainstream
+User_0935,44,14,15179,2,Casual Users
+User_0936,136,33,51340,0,Elite Whales
+User_0937,186,25,41077,1,Dormant / Churned
+User_0938,39,27,48586,3,Core Mainstream
+User_0939,39,23,35557,3,Core Mainstream
+User_0940,32,33,53754,0,Elite Whales
+User_0941,25,18,35714,2,Casual Users
+User_0942,14,30,66366,0,Elite Whales
+User_0943,36,27,34620,3,Core Mainstream
+User_0944,33,29,37532,3,Core Mainstream
+User_0945,42,19,30905,2,Casual Users
+User_0946,111,26,36214,3,Core Mainstream
+User_0947,8,24,34176,3,Core Mainstream
+User_0948,10,36,44844,0,Elite Whales
+User_0949,20,24,45321,3,Core Mainstream
+User_0950,14,25,36902,3,Core Mainstream
+User_0951,172,16,23012,1,Dormant / Churned
+User_0952,104,26,49234,3,Core Mainstream
+User_0953,277,15,16179,1,Dormant / Churned
+User_0954,12,27,48502,3,Core Mainstream
+User_0955,144,29,38317,3,Core Mainstream
+User_0956,38,28,31798,3,Core Mainstream
+User_0957,155,29,38475,1,Dormant / Churned
+User_0958,119,27,52165,0,Elite Whales
+User_0959,34,34,58000,0,Elite Whales
+User_0960,68,24,34677,3,Core Mainstream
+User_0961,104,23,27960,2,Casual Users
+User_0962,1,26,32167,3,Core Mainstream
+User_0963,34,26,52009,3,Core Mainstream
+User_0964,249,18,25572,1,Dormant / Churned
+User_0965,2,33,46274,0,Elite Whales
+User_0966,17,19,34228,2,Casual Users
+User_0967,236,19,31281,1,Dormant / Churned
+User_0968,1,22,30890,2,Casual Users
+User_0969,4,24,39227,3,Core Mainstream
+User_0970,217,28,44740,1,Dormant / Churned
+User_0971,183,18,22933,1,Dormant / Churned
+User_0972,45,22,25385,2,Casual Users
+User_0973,3,37,58150,0,Elite Whales
+User_0974,22,27,38616,3,Core Mainstream
+User_0975,20,28,44408,3,Core Mainstream
+User_0976,81,24,36844,3,Core Mainstream
+User_0977,31,29,42428,3,Core Mainstream
+User_0978,1,22,41658,3,Core Mainstream
+User_0979,105,21,43285,3,Core Mainstream
+User_0980,14,18,35802,2,Casual Users
+User_0981,4,22,32027,2,Casual Users
+User_0982,3,32,47034,0,Elite Whales
+User_0983,15,24,26190,2,Casual Users
+User_0984,109,36,58527,0,Elite Whales
+User_0985,21,28,46963,3,Core Mainstream
+User_0986,20,30,53191,0,Elite Whales
+User_0987,130,26,41033,3,Core Mainstream
+User_0988,54,36,55731,0,Elite Whales
+User_0989,98,24,27009,2,Casual Users
+User_0990,1,25,35721,3,Core Mainstream
+User_0991,74,27,42530,3,Core Mainstream
+User_0992,95,31,46417,0,Elite Whales
+User_0993,155,33,48266,0,Elite Whales
+User_0994,108,33,52068,0,Elite Whales
+User_0995,9,20,26440,2,Casual Users
+User_0996,27,22,23657,2,Casual Users
+User_0997,87,29,37725,3,Core Mainstream
+User_0998,20,26,39910,3,Core Mainstream
+User_0999,8,28,31416,3,Core Mainstream
+User_1000,68,22,35804,2,Casual Users
+User_1001,22,19,32047,2,Casual Users
+User_1002,9,24,36976,3,Core Mainstream
+User_1003,52,23,31549,2,Casual Users
+User_1004,4,32,57951,0,Elite Whales
+User_1005,96,25,53117,3,Core Mainstream
+User_1006,58,19,28607,2,Casual Users
+User_1007,10,24,38708,3,Core Mainstream
+User_1008,2,25,46061,3,Core Mainstream
+User_1009,53,23,46085,3,Core Mainstream
+User_1010,205,21,38605,1,Dormant / Churned
+User_1011,4,17,28866,2,Casual Users
+User_1012,69,26,46514,3,Core Mainstream
+User_1013,30,24,33775,3,Core Mainstream
+User_1014,56,30,60047,0,Elite Whales
+User_1015,14,27,40255,3,Core Mainstream
+User_1016,40,23,27784,2,Casual Users
+User_1017,36,34,55853,0,Elite Whales
+User_1018,18,29,58731,0,Elite Whales
+User_1019,75,23,36995,3,Core Mainstream
+User_1020,17,22,29256,2,Casual Users
+User_1021,71,25,44321,3,Core Mainstream
+User_1022,13,23,40399,3,Core Mainstream
+User_1023,93,18,24468,2,Casual Users
+User_1024,67,21,37358,2,Casual Users
+User_1025,54,23,41617,3,Core Mainstream
+User_1026,24,22,16822,2,Casual Users
+User_1027,347,24,37141,1,Dormant / Churned
+User_1028,216,18,21325,1,Dormant / Churned
+User_1029,38,25,38535,3,Core Mainstream
+User_1030,40,24,30201,2,Casual Users
+User_1031,85,21,41745,3,Core Mainstream
+User_1032,36,28,38427,3,Core Mainstream
+User_1033,353,20,32444,1,Dormant / Churned
+User_1034,66,33,45393,0,Elite Whales
+User_1035,95,15,27660,2,Casual Users
+User_1036,51,30,42456,3,Core Mainstream
+User_1037,15,38,59962,0,Elite Whales
+User_1038,10,29,41689,3,Core Mainstream
+User_1039,26,24,43379,3,Core Mainstream
+User_1040,48,30,47667,0,Elite Whales
+User_1041,111,32,51958,0,Elite Whales
+User_1042,78,21,34320,2,Casual Users
+User_1043,16,30,40051,3,Core Mainstream
+User_1044,19,24,48683,3,Core Mainstream
+User_1045,70,28,42174,3,Core Mainstream
+User_1046,40,27,34753,3,Core Mainstream
+User_1047,28,27,38548,3,Core Mainstream
+User_1048,138,21,22009,2,Casual Users
+User_1049,10,22,33410,2,Casual Users
+User_1050,20,29,39063,3,Core Mainstream
+User_1051,22,25,42958,3,Core Mainstream
+User_1052,8,22,34698,2,Casual Users
+User_1053,27,20,24090,2,Casual Users
+User_1054,8,30,51114,0,Elite Whales
+User_1055,130,27,45568,3,Core Mainstream
+User_1056,5,30,45550,0,Elite Whales
+User_1057,24,20,32937,2,Casual Users
+User_1058,67,19,37969,2,Casual Users
+User_1059,95,25,41613,3,Core Mainstream
+User_1060,44,25,35726,3,Core Mainstream
+User_1061,120,27,48235,3,Core Mainstream
+User_1062,10,26,35567,3,Core Mainstream
+User_1063,61,32,37506,3,Core Mainstream
+User_1064,32,25,38564,3,Core Mainstream
+User_1065,103,13,16497,2,Casual Users
+User_1066,13,35,52856,0,Elite Whales
+User_1067,230,29,46773,1,Dormant / Churned
+User_1068,70,31,47671,0,Elite Whales
+User_1069,18,17,22409,2,Casual Users
+User_1070,70,27,42606,3,Core Mainstream
+User_1071,20,32,58204,0,Elite Whales
+User_1072,97,24,46131,3,Core Mainstream
+User_1073,147,24,35338,1,Dormant / Churned
+User_1074,222,19,25074,1,Dormant / Churned
+User_1075,12,29,45849,3,Core Mainstream
+User_1076,29,29,42456,3,Core Mainstream
+User_1077,4,29,43532,3,Core Mainstream
+User_1078,47,22,37319,3,Core Mainstream
+User_1079,32,21,33664,2,Casual Users
+User_1080,34,21,35600,2,Casual Users
+User_1081,26,28,59824,0,Elite Whales
+User_1082,34,26,41917,3,Core Mainstream
+User_1083,199,33,65827,0,Elite Whales
+User_1084,2,28,36556,3,Core Mainstream
+User_1085,29,22,33040,2,Casual Users
+User_1086,16,25,38513,3,Core Mainstream
+User_1087,48,29,39107,3,Core Mainstream
+User_1088,134,11,17005,2,Casual Users
+User_1089,15,31,44769,0,Elite Whales
+User_1090,3,28,44550,3,Core Mainstream
+User_1091,43,23,27628,2,Casual Users
+User_1092,42,27,37937,3,Core Mainstream
+User_1093,30,32,44148,0,Elite Whales
+User_1094,54,27,38899,3,Core Mainstream
+User_1095,35,22,34493,2,Casual Users
+User_1096,294,21,31401,1,Dormant / Churned
+User_1097,17,34,52764,0,Elite Whales
+User_1098,41,26,49427,3,Core Mainstream
+User_1099,36,33,29913,3,Core Mainstream
+User_1100,65,24,41285,3,Core Mainstream
+User_1101,74,37,71664,0,Elite Whales
+User_1102,4,25,25747,2,Casual Users
+User_1103,24,21,40005,3,Core Mainstream
+User_1104,52,22,23935,2,Casual Users
+User_1105,9,30,52195,0,Elite Whales
+User_1106,14,28,53374,0,Elite Whales
+User_1107,10,25,47248,3,Core Mainstream
+User_1108,35,25,28509,2,Casual Users
+User_1109,111,15,26241,2,Casual Users
+User_1110,10,25,38464,3,Core Mainstream
+User_1111,32,23,28852,2,Casual Users
+User_1112,203,27,41164,1,Dormant / Churned
+User_1113,24,35,50463,0,Elite Whales
+User_1114,16,30,39169,3,Core Mainstream
+User_1115,21,21,43571,3,Core Mainstream
+User_1116,54,22,34753,2,Casual Users
+User_1117,8,30,28562,3,Core Mainstream
+User_1118,22,22,40004,3,Core Mainstream
+User_1119,152,24,27303,1,Dormant / Churned
+User_1120,60,22,29180,2,Casual Users
+User_1121,56,22,57627,3,Core Mainstream
+User_1122,30,22,34657,2,Casual Users
+User_1123,22,24,39812,3,Core Mainstream
+User_1124,82,17,28077,2,Casual Users
+User_1125,13,22,17547,2,Casual Users
+User_1126,6,25,25777,2,Casual Users
+User_1127,11,32,59282,0,Elite Whales
+User_1128,14,28,39870,3,Core Mainstream
+User_1129,81,26,26493,2,Casual Users
+User_1130,51,29,42340,3,Core Mainstream
+User_1131,28,24,30502,2,Casual Users
+User_1132,225,23,36188,1,Dormant / Churned
+User_1133,289,23,42442,1,Dormant / Churned
+User_1134,58,24,33926,3,Core Mainstream
+User_1135,32,27,45534,3,Core Mainstream
+User_1136,54,36,56011,0,Elite Whales
+User_1137,39,24,49233,3,Core Mainstream
+User_1138,33,27,37790,3,Core Mainstream
+User_1139,15,29,48376,0,Elite Whales
+User_1140,88,19,26923,2,Casual Users
+User_1141,21,26,40200,3,Core Mainstream
+User_1142,43,33,42593,0,Elite Whales
+User_1143,6,33,57117,0,Elite Whales
+User_1144,26,30,52531,0,Elite Whales
+User_1145,11,28,41639,3,Core Mainstream
+User_1146,166,16,24913,1,Dormant / Churned
+User_1147,93,17,29326,2,Casual Users
+User_1148,155,29,40113,1,Dormant / Churned
+User_1149,52,19,38404,2,Casual Users
+User_1150,173,20,35744,1,Dormant / Churned
+User_1151,119,23,50016,3,Core Mainstream
+User_1152,73,33,56632,0,Elite Whales
+User_1153,15,28,31205,3,Core Mainstream
+User_1154,32,38,66487,0,Elite Whales
+User_1155,83,24,30336,2,Casual Users
+User_1156,55,30,32584,3,Core Mainstream
+User_1157,181,28,41093,1,Dormant / Churned
+User_1158,56,23,37134,3,Core Mainstream
+User_1159,50,21,20577,2,Casual Users
+User_1160,14,22,39754,3,Core Mainstream
+User_1161,3,24,45621,3,Core Mainstream
+User_1162,90,26,45830,3,Core Mainstream
+User_1163,29,17,32512,2,Casual Users
+User_1164,5,18,40432,2,Casual Users
+User_1165,2,24,34159,3,Core Mainstream
+User_1166,1,26,39311,3,Core Mainstream
+User_1167,11,26,38984,3,Core Mainstream
+User_1168,8,23,38375,3,Core Mainstream
+User_1169,227,28,43437,1,Dormant / Churned
+User_1170,116,35,49861,0,Elite Whales
+User_1171,9,22,40543,3,Core Mainstream
+User_1172,263,22,25668,1,Dormant / Churned
+User_1173,76,30,44485,0,Elite Whales
+User_1174,52,24,33325,3,Core Mainstream
+User_1175,18,19,26326,2,Casual Users
+User_1176,52,20,27294,2,Casual Users
+User_1177,17,28,52287,0,Elite Whales
+User_1178,18,28,32697,3,Core Mainstream
+User_1179,97,20,41444,3,Core Mainstream
+User_1180,10,34,52321,0,Elite Whales
+User_1181,3,20,38404,2,Casual Users
+User_1182,48,24,37959,3,Core Mainstream
+User_1183,4,19,21867,2,Casual Users
+User_1184,76,27,37552,3,Core Mainstream
+User_1185,48,36,46511,0,Elite Whales
+User_1186,123,22,26975,2,Casual Users
+User_1187,54,23,24526,2,Casual Users
+User_1188,69,27,32603,3,Core Mainstream
+User_1189,10,22,30735,2,Casual Users
+User_1190,15,26,45610,3,Core Mainstream
+User_1191,347,21,22773,1,Dormant / Churned
+User_1192,10,26,31500,3,Core Mainstream
+User_1193,84,24,38461,3,Core Mainstream
+User_1194,29,23,40274,3,Core Mainstream
+User_1195,7,26,35540,3,Core Mainstream
+User_1196,35,28,32236,3,Core Mainstream
+User_1197,45,20,29988,2,Casual Users
+User_1198,5,22,30856,2,Casual Users
+User_1199,72,30,44043,3,Core Mainstream
+User_1200,27,26,58140,0,Elite Whales
+User_1201,78,16,30057,2,Casual Users
+User_1202,4,28,43626,3,Core Mainstream
+User_1203,66,20,32131,2,Casual Users
+User_1204,16,29,49520,0,Elite Whales
+User_1205,113,21,43933,3,Core Mainstream
+User_1206,36,35,49615,0,Elite Whales
+User_1207,2,26,37748,3,Core Mainstream
+User_1208,94,27,35601,3,Core Mainstream
+User_1209,49,21,23956,2,Casual Users
+User_1210,546,21,21446,1,Dormant / Churned
+User_1211,30,20,27565,2,Casual Users
+User_1212,41,23,39675,3,Core Mainstream
+User_1213,111,29,49107,0,Elite Whales
+User_1214,9,21,39222,3,Core Mainstream
+User_1215,32,33,49849,0,Elite Whales
+User_1216,144,22,31032,1,Dormant / Churned
+User_1217,259,26,36178,1,Dormant / Churned
+User_1218,45,17,22119,2,Casual Users
+User_1219,68,31,65253,0,Elite Whales
+User_1220,18,24,40026,3,Core Mainstream
+User_1221,72,25,30423,3,Core Mainstream
+User_1222,40,16,19660,2,Casual Users
+User_1223,150,27,47045,3,Core Mainstream
+User_1224,119,26,43698,3,Core Mainstream
+User_1225,31,28,32951,3,Core Mainstream
+User_1226,13,29,47782,0,Elite Whales
+User_1227,49,26,41354,3,Core Mainstream
+User_1228,30,25,46339,3,Core Mainstream
+User_1229,37,24,44323,3,Core Mainstream
+User_1230,35,18,35966,2,Casual Users
+User_1231,60,27,43092,3,Core Mainstream
+User_1232,13,23,45359,3,Core Mainstream
+User_1233,13,26,34866,3,Core Mainstream
+User_1234,15,21,29221,2,Casual Users
+User_1235,6,21,34639,2,Casual Users
+User_1236,50,28,37886,3,Core Mainstream
+User_1237,271,21,34060,1,Dormant / Churned
+User_1238,95,29,37299,3,Core Mainstream
+User_1239,51,26,48977,3,Core Mainstream
+User_1240,9,32,48366,0,Elite Whales
+User_1241,40,19,22137,2,Casual Users
+User_1242,68,29,54873,0,Elite Whales
+User_1243,8,27,41338,3,Core Mainstream
+User_1244,7,32,56721,0,Elite Whales
+User_1245,68,26,47302,3,Core Mainstream
+User_1246,84,26,40049,3,Core Mainstream
+User_1247,92,24,35950,3,Core Mainstream
+User_1248,91,19,26277,2,Casual Users
+User_1249,12,31,57331,0,Elite Whales
+User_1250,16,23,26633,2,Casual Users
+User_1251,55,29,39304,3,Core Mainstream
+User_1252,89,26,44380,3,Core Mainstream
+User_1253,57,26,44751,3,Core Mainstream
+User_1254,16,22,30054,2,Casual Users
+User_1255,27,27,36135,3,Core Mainstream
+User_1256,10,26,48940,3,Core Mainstream
+User_1257,21,28,42934,3,Core Mainstream
+User_1258,104,25,50031,3,Core Mainstream
+User_1259,52,19,29208,2,Casual Users
+User_1260,38,23,28714,2,Casual Users
+User_1261,70,34,56027,0,Elite Whales
+User_1262,179,22,36998,1,Dormant / Churned
+User_1263,5,31,53813,0,Elite Whales
+User_1264,41,25,39420,3,Core Mainstream
+User_1265,47,29,47598,0,Elite Whales
+User_1266,102,22,44908,3,Core Mainstream
+User_1267,12,23,27706,2,Casual Users
+User_1268,84,22,32274,2,Casual Users
+User_1269,166,20,32742,1,Dormant / Churned
+User_1270,64,32,44632,0,Elite Whales
+User_1271,19,20,39836,3,Core Mainstream
+User_1272,113,25,41126,3,Core Mainstream
+User_1273,19,21,29085,2,Casual Users
+User_1274,340,17,28977,1,Dormant / Churned
+User_1275,76,33,46085,0,Elite Whales
+User_1276,2,24,53993,3,Core Mainstream
+User_1277,22,34,60163,0,Elite Whales
+User_1278,123,23,35975,1,Dormant / Churned
+User_1279,84,22,33297,2,Casual Users
+User_1280,78,25,45793,3,Core Mainstream
+User_1281,23,27,40330,3,Core Mainstream
+User_1282,121,22,30855,2,Casual Users
+User_1283,7,31,40543,3,Core Mainstream
+User_1284,14,37,57735,0,Elite Whales
+User_1285,16,32,57745,0,Elite Whales
+User_1286,145,20,30001,1,Dormant / Churned
+User_1287,29,24,40345,3,Core Mainstream
+User_1288,19,23,28156,2,Casual Users
+User_1289,114,28,36432,3,Core Mainstream
+User_1290,76,24,48602,3,Core Mainstream
+User_1291,84,20,30913,2,Casual Users
+User_1292,91,25,38392,3,Core Mainstream
+User_1293,84,31,50619,0,Elite Whales
+User_1294,132,23,44333,3,Core Mainstream
+User_1295,22,33,50717,0,Elite Whales
+User_1296,100,32,40852,0,Elite Whales
+User_1297,7,31,48348,0,Elite Whales
+User_1298,114,20,33490,2,Casual Users
+User_1299,42,24,29566,2,Casual Users
+User_1300,3,27,35710,3,Core Mainstream
+User_1301,6,33,53537,0,Elite Whales
+User_1302,112,26,31494,3,Core Mainstream
+User_1303,70,28,38995,3,Core Mainstream
+User_1304,31,21,21678,2,Casual Users
+User_1305,41,32,40531,0,Elite Whales
+User_1306,57,19,29941,2,Casual Users
+User_1307,32,27,46224,3,Core Mainstream
+User_1308,82,19,29086,2,Casual Users
+User_1309,1,30,41554,3,Core Mainstream
+User_1310,43,19,38087,2,Casual Users
+User_1311,4,29,36208,3,Core Mainstream
+User_1312,47,26,28961,3,Core Mainstream
+User_1313,12,31,60185,0,Elite Whales
+User_1314,137,24,38804,1,Dormant / Churned
+User_1315,20,17,29865,2,Casual Users
+User_1316,134,26,30857,1,Dormant / Churned
+User_1317,4,32,54948,0,Elite Whales
+User_1318,25,30,62268,0,Elite Whales
+User_1319,3,18,27341,2,Casual Users
+User_1320,26,29,36972,3,Core Mainstream
+User_1321,103,32,50256,0,Elite Whales
+User_1322,68,22,24581,2,Casual Users
+User_1323,66,19,26896,2,Casual Users
+User_1324,47,27,35237,3,Core Mainstream
+User_1325,7,21,24156,2,Casual Users
+User_1326,96,30,45399,0,Elite Whales
+User_1327,77,23,45768,3,Core Mainstream
+User_1328,48,32,53195,0,Elite Whales
+User_1329,16,19,26576,2,Casual Users
+User_1330,68,27,57878,0,Elite Whales
+User_1331,126,12,16925,2,Casual Users
+User_1332,48,22,31081,2,Casual Users
+User_1333,22,31,36753,3,Core Mainstream
+User_1334,17,29,53905,0,Elite Whales
+User_1335,33,26,42408,3,Core Mainstream
+User_1336,94,18,27842,2,Casual Users
+User_1337,212,22,28571,1,Dormant / Churned
+User_1338,127,17,29838,2,Casual Users
+User_1339,24,25,45696,3,Core Mainstream
+User_1340,42,28,45379,3,Core Mainstream
+User_1341,11,19,34748,2,Casual Users
+User_1342,52,34,49070,0,Elite Whales
+User_1343,165,22,32696,1,Dormant / Churned
+User_1344,42,23,24488,2,Casual Users
+User_1345,2,20,29889,2,Casual Users
+User_1346,50,24,38569,3,Core Mainstream
+User_1347,14,22,29024,2,Casual Users
+User_1348,10,23,37743,3,Core Mainstream
+User_1349,132,20,34766,1,Dormant / Churned
+User_1350,28,23,36574,3,Core Mainstream
+User_1351,179,27,40322,1,Dormant / Churned
+User_1352,2,26,44672,3,Core Mainstream
+User_1353,11,26,38973,3,Core Mainstream
+User_1354,63,20,30403,2,Casual Users
+User_1355,27,25,31466,3,Core Mainstream
+User_1356,9,20,34840,2,Casual Users
+User_1357,128,26,41994,3,Core Mainstream
+User_1358,77,29,34359,3,Core Mainstream
+User_1359,8,27,45367,3,Core Mainstream
+User_1360,187,27,26971,1,Dormant / Churned
+User_1361,35,36,46741,0,Elite Whales
+User_1362,105,18,19831,2,Casual Users
+User_1363,60,30,59991,0,Elite Whales
+User_1364,39,27,47536,3,Core Mainstream
+User_1365,47,26,57361,0,Elite Whales
+User_1366,13,31,50725,0,Elite Whales
+User_1367,12,34,61017,0,Elite Whales
+User_1368,17,18,27166,2,Casual Users
+User_1369,206,27,41711,1,Dormant / Churned
+User_1370,8,26,31558,3,Core Mainstream
+User_1371,149,16,21252,2,Casual Users
+User_1372,19,24,48488,3,Core Mainstream
+User_1373,302,22,36966,1,Dormant / Churned
+User_1374,309,21,40924,1,Dormant / Churned
+User_1375,72,22,34703,2,Casual Users
+User_1376,59,27,40725,3,Core Mainstream
+User_1377,119,20,30175,2,Casual Users
+User_1378,48,23,26730,2,Casual Users
+User_1379,17,28,53200,0,Elite Whales
+User_1380,183,24,42563,1,Dormant / Churned
+User_1381,17,25,39641,3,Core Mainstream
+User_1382,46,25,42137,3,Core Mainstream
+User_1383,45,29,50391,0,Elite Whales
+User_1384,40,24,35442,3,Core Mainstream
+User_1385,149,27,38968,1,Dormant / Churned
+User_1386,121,22,36062,1,Dormant / Churned
+User_1387,59,18,31271,2,Casual Users
+User_1388,38,31,61204,0,Elite Whales
+User_1389,10,24,37654,3,Core Mainstream
+User_1390,16,20,18254,2,Casual Users
+User_1391,9,27,36785,3,Core Mainstream
+User_1392,65,28,39585,3,Core Mainstream
+User_1393,58,26,50497,3,Core Mainstream
+User_1394,121,20,22922,2,Casual Users
+User_1395,116,28,34448,3,Core Mainstream
+User_1396,60,19,23291,2,Casual Users
+User_1397,22,24,45501,3,Core Mainstream
+User_1398,31,24,35417,3,Core Mainstream
+User_1399,75,24,26992,2,Casual Users
+User_1400,106,30,52930,0,Elite Whales
+User_1401,24,26,46479,3,Core Mainstream
+User_1402,40,29,40191,3,Core Mainstream
+User_1403,53,21,35495,2,Casual Users
+User_1404,10,34,52202,0,Elite Whales
+User_1405,110,29,41085,3,Core Mainstream
+User_1406,41,31,59853,0,Elite Whales
+User_1407,6,25,38981,3,Core Mainstream
+User_1408,106,15,23527,2,Casual Users
+User_1409,11,24,33354,3,Core Mainstream
+User_1410,20,24,27928,2,Casual Users
+User_1411,6,19,31575,2,Casual Users
+User_1412,7,25,40634,3,Core Mainstream
+User_1413,59,27,52151,0,Elite Whales
+User_1414,37,21,33852,2,Casual Users
+User_1415,94,18,24247,2,Casual Users
+User_1416,1,31,65292,0,Elite Whales
+User_1417,16,24,36941,3,Core Mainstream
+User_1418,37,29,40462,3,Core Mainstream
+User_1419,48,22,33352,2,Casual Users
+User_1420,59,25,31339,3,Core Mainstream
+User_1421,10,30,37795,3,Core Mainstream
+User_1422,14,20,37684,2,Casual Users
+User_1423,41,28,46169,3,Core Mainstream
+User_1424,39,23,41573,3,Core Mainstream
+User_1425,91,25,33374,3,Core Mainstream
+User_1426,253,24,50660,1,Dormant / Churned
+User_1427,85,24,29699,2,Casual Users
+User_1428,139,16,25463,2,Casual Users
+User_1429,29,23,31699,2,Casual Users
+User_1430,106,19,38541,2,Casual Users
+User_1431,67,26,43707,3,Core Mainstream
+User_1432,3,20,43685,3,Core Mainstream
+User_1433,56,25,36988,3,Core Mainstream
+User_1434,3,23,42796,3,Core Mainstream
+User_1435,18,15,19280,2,Casual Users
+User_1436,35,22,30923,2,Casual Users
+User_1437,15,22,39599,3,Core Mainstream
+User_1438,7,24,36832,3,Core Mainstream
+User_1439,13,31,49533,0,Elite Whales
+User_1440,20,27,49086,3,Core Mainstream
+User_1441,46,26,29946,3,Core Mainstream
+User_1442,61,22,33340,2,Casual Users
+User_1443,11,30,53133,0,Elite Whales
+User_1444,77,34,52277,0,Elite Whales
+User_1445,374,17,22395,1,Dormant / Churned
+User_1446,20,26,43719,3,Core Mainstream
+User_1447,117,23,24367,2,Casual Users
+User_1448,32,36,60129,0,Elite Whales
+User_1449,20,24,43005,3,Core Mainstream
+User_1450,13,19,42161,3,Core Mainstream
+User_1451,18,23,37780,3,Core Mainstream
+User_1452,18,33,52462,0,Elite Whales
+User_1453,168,27,41901,1,Dormant / Churned
+User_1454,136,17,29034,2,Casual Users
+User_1455,28,22,28282,2,Casual Users
+User_1456,16,23,37973,3,Core Mainstream
+User_1457,32,22,34404,2,Casual Users
+User_1458,109,20,38232,2,Casual Users
+User_1459,26,31,48429,0,Elite Whales
+User_1460,17,29,53469,0,Elite Whales
+User_1461,137,27,36452,3,Core Mainstream
+User_1462,31,29,45417,3,Core Mainstream
+User_1463,18,30,36502,3,Core Mainstream
+User_1464,78,32,53123,0,Elite Whales
+User_1465,97,30,51981,0,Elite Whales
+User_1466,88,20,28846,2,Casual Users
+User_1467,114,31,42942,0,Elite Whales
+User_1468,10,25,31559,3,Core Mainstream
+User_1469,74,26,52544,0,Elite Whales
+User_1470,114,26,31794,3,Core Mainstream
+User_1471,85,22,30153,2,Casual Users
+User_1472,59,20,36503,2,Casual Users
+User_1473,56,23,29723,2,Casual Users
+User_1474,123,27,36757,3,Core Mainstream
+User_1475,148,21,21395,1,Dormant / Churned
+User_1476,172,26,36822,1,Dormant / Churned
+User_1477,60,20,26231,2,Casual Users
+User_1478,25,19,33859,2,Casual Users
+User_1479,25,21,26237,2,Casual Users
+User_1480,20,36,66763,0,Elite Whales
+User_1481,28,16,32456,2,Casual Users
+User_1482,62,24,42735,3,Core Mainstream
+User_1483,4,29,34779,3,Core Mainstream
+User_1484,25,16,29292,2,Casual Users
+User_1485,52,21,43320,3,Core Mainstream
+User_1486,3,30,39699,3,Core Mainstream
+User_1487,33,43,77846,0,Elite Whales
+User_1488,128,23,31721,1,Dormant / Churned
+User_1489,92,24,36961,3,Core Mainstream
+User_1490,31,26,36972,3,Core Mainstream
+User_1491,61,28,36621,3,Core Mainstream
+User_1492,22,27,45895,3,Core Mainstream
+User_1493,50,32,43148,0,Elite Whales
+User_1494,266,20,34417,1,Dormant / Churned
+User_1495,28,23,21129,2,Casual Users
+User_1496,97,22,24103,2,Casual Users
+User_1497,147,16,24753,2,Casual Users
+User_1498,4,34,48817,0,Elite Whales
+User_1499,20,22,30272,2,Casual Users
+User_1500,11,28,41097,3,Core Mainstream
+User_1501,22,28,39838,3,Core Mainstream
+User_1502,2,22,34901,2,Casual Users
+User_1503,70,17,26625,2,Casual Users
+User_1504,31,33,46867,0,Elite Whales
+User_1505,68,21,27029,2,Casual Users
+User_1506,6,28,55058,0,Elite Whales
+User_1507,69,26,47501,3,Core Mainstream
+User_1508,154,20,24983,1,Dormant / Churned
+User_1509,101,28,37935,3,Core Mainstream
+User_1510,138,19,28495,2,Casual Users
+User_1511,16,28,45906,3,Core Mainstream
+User_1512,248,23,26253,1,Dormant / Churned
+User_1513,54,19,32414,2,Casual Users
+User_1514,10,27,39383,3,Core Mainstream
+User_1515,163,15,14751,2,Casual Users
+User_1516,44,26,45957,3,Core Mainstream
+User_1517,58,24,52614,3,Core Mainstream
+User_1518,209,32,41129,1,Dormant / Churned
+User_1519,155,18,22474,1,Dormant / Churned
+User_1520,21,27,38577,3,Core Mainstream
+User_1521,281,25,36898,1,Dormant / Churned
+User_1522,7,23,19125,2,Casual Users
+User_1523,91,27,37655,3,Core Mainstream
+User_1524,48,31,56065,0,Elite Whales
+User_1525,29,22,50538,3,Core Mainstream
+User_1526,1,32,46240,0,Elite Whales
+User_1527,87,38,69629,0,Elite Whales
+User_1528,152,27,40217,1,Dormant / Churned
+User_1529,84,20,47529,3,Core Mainstream
+User_1530,76,31,49466,0,Elite Whales
+User_1531,165,21,32689,1,Dormant / Churned
+User_1532,25,21,34606,2,Casual Users
+User_1533,27,30,55676,0,Elite Whales
+User_1534,284,18,32050,1,Dormant / Churned
+User_1535,198,24,42720,1,Dormant / Churned
+User_1536,80,20,33470,2,Casual Users
+User_1537,127,27,46539,3,Core Mainstream
+User_1538,51,24,28019,2,Casual Users
+User_1539,154,18,24590,1,Dormant / Churned
+User_1540,8,27,47992,3,Core Mainstream
+User_1541,17,25,37127,3,Core Mainstream
+User_1542,40,17,21423,2,Casual Users
+User_1543,22,32,41352,0,Elite Whales
+User_1544,33,28,51473,0,Elite Whales
+User_1545,186,18,21395,1,Dormant / Churned
+User_1546,37,27,46211,3,Core Mainstream
+User_1547,105,24,36402,3,Core Mainstream
+User_1548,4,32,39539,3,Core Mainstream
+User_1549,12,31,49760,0,Elite Whales
+User_1550,172,31,47244,0,Elite Whales
+User_1551,81,30,46104,0,Elite Whales
+User_1552,106,24,41285,3,Core Mainstream
+User_1553,109,26,42036,3,Core Mainstream
+User_1554,65,28,31737,3,Core Mainstream
+User_1555,40,21,31417,2,Casual Users
+User_1556,148,28,29138,1,Dormant / Churned
+User_1557,19,31,46666,0,Elite Whales
+User_1558,183,19,31805,1,Dormant / Churned
+User_1559,221,19,31545,1,Dormant / Churned
+User_1560,19,22,30020,2,Casual Users
+User_1561,129,37,51816,0,Elite Whales
+User_1562,23,31,49680,0,Elite Whales
+User_1563,50,21,36068,2,Casual Users
+User_1564,27,29,41504,3,Core Mainstream
+User_1565,24,26,40601,3,Core Mainstream
+User_1566,69,23,24014,2,Casual Users
+User_1567,93,22,27806,2,Casual Users
+User_1568,21,22,41265,3,Core Mainstream
+User_1569,37,21,35099,2,Casual Users
+User_1570,38,18,33382,2,Casual Users
+User_1571,1,30,44827,0,Elite Whales
+User_1572,60,29,40089,3,Core Mainstream
+User_1573,33,29,47959,0,Elite Whales
+User_1574,29,40,63702,0,Elite Whales
+User_1575,26,24,35308,3,Core Mainstream
+User_1576,171,17,24986,1,Dormant / Churned
+User_1577,24,26,36301,3,Core Mainstream
+User_1578,33,25,40990,3,Core Mainstream
+User_1579,138,22,51455,3,Core Mainstream
+User_1580,71,26,63686,0,Elite Whales
+User_1581,80,16,25279,2,Casual Users
+User_1582,126,30,53606,0,Elite Whales
+User_1583,4,25,38942,3,Core Mainstream
+User_1584,19,26,38617,3,Core Mainstream
+User_1585,57,26,41758,3,Core Mainstream
+User_1586,23,27,44553,3,Core Mainstream
+User_1587,66,31,56562,0,Elite Whales
+User_1588,17,19,16971,2,Casual Users
+User_1589,18,22,38979,3,Core Mainstream
+User_1590,11,31,38792,3,Core Mainstream
+User_1591,73,28,49395,0,Elite Whales
+User_1592,75,26,42472,3,Core Mainstream
+User_1593,113,21,27885,2,Casual Users
+User_1594,21,29,36600,3,Core Mainstream
+User_1595,16,36,47100,0,Elite Whales
+User_1596,155,23,28449,1,Dormant / Churned
+User_1597,35,37,57372,0,Elite Whales
+User_1598,65,30,37058,3,Core Mainstream
+User_1599,45,28,32645,3,Core Mainstream
+User_1600,32,23,29688,2,Casual Users
+User_1601,35,25,39451,3,Core Mainstream
+User_1602,109,18,20583,2,Casual Users
+User_1603,5,31,51718,0,Elite Whales
+User_1604,79,25,43066,3,Core Mainstream
+User_1605,66,32,45177,0,Elite Whales
+User_1606,6,35,40110,0,Elite Whales
+User_1607,139,28,43741,3,Core Mainstream
+User_1608,5,32,43512,0,Elite Whales
+User_1609,52,25,42337,3,Core Mainstream
+User_1610,90,22,27800,2,Casual Users
+User_1611,41,26,39337,3,Core Mainstream
+User_1612,88,18,28024,2,Casual Users
+User_1613,37,27,38075,3,Core Mainstream
+User_1614,40,27,39511,3,Core Mainstream
+User_1615,132,25,43722,3,Core Mainstream
+User_1616,25,20,27559,2,Casual Users
+User_1617,85,18,31006,2,Casual Users
+User_1618,108,31,38931,3,Core Mainstream
+User_1619,174,20,28657,1,Dormant / Churned
+User_1620,6,31,42308,0,Elite Whales
+User_1621,20,24,42106,3,Core Mainstream
+User_1622,34,27,27547,3,Core Mainstream
+User_1623,5,34,43636,0,Elite Whales
+User_1624,86,21,26993,2,Casual Users
+User_1625,22,31,47689,0,Elite Whales
+User_1626,27,29,39815,3,Core Mainstream
+User_1627,221,20,20508,1,Dormant / Churned
+User_1628,32,33,55381,0,Elite Whales
+User_1629,13,24,32637,3,Core Mainstream
+User_1630,30,37,70237,0,Elite Whales
+User_1631,52,26,45099,3,Core Mainstream
+User_1632,28,24,33665,3,Core Mainstream
+User_1633,133,25,43229,3,Core Mainstream
+User_1634,204,31,41327,1,Dormant / Churned
+User_1635,67,25,43268,3,Core Mainstream
+User_1636,136,26,50755,3,Core Mainstream
+User_1637,7,20,35358,2,Casual Users
+User_1638,49,22,45979,3,Core Mainstream
+User_1639,60,22,42768,3,Core Mainstream
+User_1640,80,19,32456,2,Casual Users
+User_1641,12,28,57449,0,Elite Whales
+User_1642,93,29,45422,3,Core Mainstream
+User_1643,60,29,42997,3,Core Mainstream
+User_1644,2,25,19401,2,Casual Users
+User_1645,163,19,26630,1,Dormant / Churned
+User_1646,8,24,37074,3,Core Mainstream
+User_1647,11,26,45969,3,Core Mainstream
+User_1648,44,24,19287,2,Casual Users
+User_1649,10,30,49268,0,Elite Whales
+User_1650,27,25,39138,3,Core Mainstream
+User_1651,17,15,18749,2,Casual Users
+User_1652,5,26,40743,3,Core Mainstream
+User_1653,30,27,42491,3,Core Mainstream
+User_1654,95,17,27652,2,Casual Users
+User_1655,98,31,44976,0,Elite Whales
+User_1656,110,17,28543,2,Casual Users
+User_1657,103,21,23324,2,Casual Users
+User_1658,8,24,37444,3,Core Mainstream
+User_1659,168,23,34008,1,Dormant / Churned
+User_1660,5,22,36009,3,Core Mainstream
+User_1661,53,29,48454,0,Elite Whales
+User_1662,9,26,40668,3,Core Mainstream
+User_1663,190,15,20854,1,Dormant / Churned
+User_1664,2,33,49724,0,Elite Whales
+User_1665,111,21,26409,2,Casual Users
+User_1666,84,21,30142,2,Casual Users
+User_1667,56,23,38735,3,Core Mainstream
+User_1668,54,20,29837,2,Casual Users
+User_1669,48,21,33193,2,Casual Users
+User_1670,62,30,43968,3,Core Mainstream
+User_1671,46,29,39483,3,Core Mainstream
+User_1672,14,28,49130,0,Elite Whales
+User_1673,19,34,46380,0,Elite Whales
+User_1674,35,23,53738,3,Core Mainstream
+User_1675,18,35,47467,0,Elite Whales
+User_1676,147,25,47182,3,Core Mainstream
+User_1677,98,33,48559,0,Elite Whales
+User_1678,140,25,39700,1,Dormant / Churned
+User_1679,25,31,54028,0,Elite Whales
+User_1680,124,28,48307,0,Elite Whales
+User_1681,50,35,51184,0,Elite Whales
+User_1682,42,37,43438,0,Elite Whales
+User_1683,74,32,36531,3,Core Mainstream
+User_1684,28,23,35421,3,Core Mainstream
+User_1685,190,13,22794,1,Dormant / Churned
+User_1686,19,27,44174,3,Core Mainstream
+User_1687,38,36,59409,0,Elite Whales
+User_1688,15,28,42592,3,Core Mainstream
+User_1689,58,22,49101,3,Core Mainstream
+User_1690,98,33,68743,0,Elite Whales
+User_1691,5,26,36871,3,Core Mainstream
+User_1692,300,24,40321,1,Dormant / Churned
+User_1693,53,24,27485,2,Casual Users
+User_1694,3,36,55726,0,Elite Whales
+User_1695,81,25,14133,2,Casual Users
+User_1696,79,19,28527,2,Casual Users
+User_1697,218,21,36477,1,Dormant / Churned
+User_1698,20,15,35304,2,Casual Users
+User_1699,54,29,57250,0,Elite Whales
+User_1700,9,32,49286,0,Elite Whales
+User_1701,15,27,41181,3,Core Mainstream
+User_1702,73,32,62824,0,Elite Whales
+User_1703,90,27,36323,3,Core Mainstream
+User_1704,9,25,39496,3,Core Mainstream
+User_1705,18,24,46334,3,Core Mainstream
+User_1706,17,25,34272,3,Core Mainstream
+User_1707,14,24,40166,3,Core Mainstream
+User_1708,10,19,24999,2,Casual Users
+User_1709,9,27,37045,3,Core Mainstream
+User_1710,164,22,37369,1,Dormant / Churned
+User_1711,74,22,34183,2,Casual Users
+User_1712,2,26,36493,3,Core Mainstream
+User_1713,5,22,40441,3,Core Mainstream
+User_1714,22,19,28246,2,Casual Users
+User_1715,168,22,34836,1,Dormant / Churned
+User_1716,161,28,31021,1,Dormant / Churned
+User_1717,1,36,67675,0,Elite Whales
+User_1718,139,26,40030,3,Core Mainstream
+User_1719,124,24,25180,2,Casual Users
+User_1720,251,23,36105,1,Dormant / Churned
+User_1721,55,27,42970,3,Core Mainstream
+User_1722,119,28,29654,3,Core Mainstream
+User_1723,68,33,41837,0,Elite Whales
+User_1724,1,23,37080,3,Core Mainstream
+User_1725,25,34,71776,0,Elite Whales
+User_1726,8,29,51132,0,Elite Whales
+User_1727,327,19,28762,1,Dormant / Churned
+User_1728,285,23,33541,1,Dormant / Churned
+User_1729,137,17,34918,1,Dormant / Churned
+User_1730,29,29,48287,0,Elite Whales
+User_1731,86,19,23191,2,Casual Users
+User_1732,77,24,33515,3,Core Mainstream
+User_1733,3,18,26078,2,Casual Users
+User_1734,95,23,35971,3,Core Mainstream
+User_1735,7,24,37574,3,Core Mainstream
+User_1736,45,18,35122,2,Casual Users
+User_1737,24,17,25213,2,Casual Users
+User_1738,25,18,35095,2,Casual Users
+User_1739,17,26,40006,3,Core Mainstream
+User_1740,49,24,28468,2,Casual Users
+User_1741,81,18,29457,2,Casual Users
+User_1742,81,25,29357,2,Casual Users
+User_1743,234,17,26068,1,Dormant / Churned
+User_1744,37,29,50894,0,Elite Whales
+User_1745,24,26,30523,3,Core Mainstream
+User_1746,24,20,26022,2,Casual Users
+User_1747,8,28,34973,3,Core Mainstream
+User_1748,77,19,24056,2,Casual Users
+User_1749,1,23,39625,3,Core Mainstream
+User_1750,62,27,31471,3,Core Mainstream
+User_1751,222,26,38805,1,Dormant / Churned
+User_1752,121,26,30062,3,Core Mainstream
+User_1753,164,22,45417,1,Dormant / Churned
+User_1754,34,28,34354,3,Core Mainstream
+User_1755,78,21,34467,2,Casual Users
+User_1756,65,27,39473,3,Core Mainstream
+User_1757,64,26,19662,2,Casual Users
+User_1758,30,21,30786,2,Casual Users
+User_1759,45,23,37258,3,Core Mainstream
+User_1760,12,32,35595,3,Core Mainstream
+User_1761,87,27,44127,3,Core Mainstream
+User_1762,45,21,39464,3,Core Mainstream
+User_1763,18,29,32143,3,Core Mainstream
+User_1764,9,32,30024,3,Core Mainstream
+User_1765,16,20,26703,2,Casual Users
+User_1766,112,17,24788,2,Casual Users
+User_1767,6,26,44507,3,Core Mainstream
+User_1768,74,20,36199,2,Casual Users
+User_1769,206,23,39752,1,Dormant / Churned
+User_1770,1,20,25927,2,Casual Users
+User_1771,14,18,19998,2,Casual Users
+User_1772,42,26,36077,3,Core Mainstream
+User_1773,48,32,46763,0,Elite Whales
+User_1774,46,25,43882,3,Core Mainstream
+User_1775,73,27,47454,3,Core Mainstream
+User_1776,3,22,27236,2,Casual Users
+User_1777,9,22,35222,2,Casual Users
+User_1778,42,30,41482,3,Core Mainstream
+User_1779,12,25,42270,3,Core Mainstream
+User_1780,70,24,34444,3,Core Mainstream
+User_1781,71,19,27302,2,Casual Users
+User_1782,112,32,45392,0,Elite Whales
+User_1783,65,29,35206,3,Core Mainstream
+User_1784,9,23,36632,3,Core Mainstream
+User_1785,87,23,24461,2,Casual Users
+User_1786,71,18,24117,2,Casual Users
+User_1787,53,20,36160,2,Casual Users
+User_1788,35,26,33125,3,Core Mainstream
+User_1789,3,14,27385,2,Casual Users
+User_1790,88,29,35992,3,Core Mainstream
+User_1791,175,24,49139,1,Dormant / Churned
+User_1792,33,23,41648,3,Core Mainstream
+User_1793,26,22,27904,2,Casual Users
+User_1794,150,20,25488,1,Dormant / Churned
+User_1795,115,24,33329,3,Core Mainstream
+User_1796,18,27,35546,3,Core Mainstream
+User_1797,50,18,30447,2,Casual Users
+User_1798,80,26,57935,0,Elite Whales
+User_1799,15,21,26417,2,Casual Users
+User_1800,72,21,28107,2,Casual Users
+User_1801,50,22,36142,3,Core Mainstream
+User_1802,15,23,30389,2,Casual Users
+User_1803,73,20,32006,2,Casual Users
+User_1804,71,20,23523,2,Casual Users
+User_1805,64,18,30459,2,Casual Users
+User_1806,150,23,38780,1,Dormant / Churned
+User_1807,39,38,46982,0,Elite Whales
+User_1808,18,16,16085,2,Casual Users
+User_1809,100,30,37665,3,Core Mainstream
+User_1810,13,26,40526,3,Core Mainstream
+User_1811,50,32,45574,0,Elite Whales
+User_1812,264,18,25044,1,Dormant / Churned
+User_1813,36,21,22947,2,Casual Users
+User_1814,285,29,35759,1,Dormant / Churned
+User_1815,104,25,36485,3,Core Mainstream
+User_1816,18,28,45370,3,Core Mainstream
+User_1817,52,25,27736,2,Casual Users
+User_1818,25,34,52694,0,Elite Whales
+User_1819,53,28,47984,3,Core Mainstream
+User_1820,16,26,36779,3,Core Mainstream
+User_1821,40,21,28737,2,Casual Users
+User_1822,46,25,47135,3,Core Mainstream
+User_1823,41,30,52350,0,Elite Whales
+User_1824,55,29,48443,0,Elite Whales
+User_1825,77,21,32514,2,Casual Users
+User_1826,87,24,44792,3,Core Mainstream
+User_1827,5,24,44226,3,Core Mainstream
+User_1828,124,27,41992,3,Core Mainstream
+User_1829,21,25,25685,2,Casual Users
+User_1830,4,25,32721,3,Core Mainstream
+User_1831,323,21,39984,1,Dormant / Churned
+User_1832,59,27,38285,3,Core Mainstream
+User_1833,375,20,26884,1,Dormant / Churned
+User_1834,111,21,37526,2,Casual Users
+User_1835,107,22,41947,3,Core Mainstream
+User_1836,79,25,42460,3,Core Mainstream
+User_1837,41,38,63269,0,Elite Whales
+User_1838,11,14,15231,2,Casual Users
+User_1839,29,28,47125,3,Core Mainstream
+User_1840,62,30,48924,0,Elite Whales
+User_1841,20,24,27114,2,Casual Users
+User_1842,42,20,30411,2,Casual Users
+User_1843,6,24,39279,3,Core Mainstream
+User_1844,124,21,49680,3,Core Mainstream
+User_1845,178,24,43171,1,Dormant / Churned
+User_1846,13,25,39000,3,Core Mainstream
+User_1847,17,22,31013,2,Casual Users
+User_1848,117,27,48204,3,Core Mainstream
+User_1849,22,35,41818,0,Elite Whales
+User_1850,10,32,39920,3,Core Mainstream
+User_1851,27,19,29035,2,Casual Users
+User_1852,7,31,44409,0,Elite Whales
+User_1853,19,20,28701,2,Casual Users
+User_1854,84,26,42404,3,Core Mainstream
+User_1855,126,32,43320,0,Elite Whales
+User_1856,10,36,40237,0,Elite Whales
+User_1857,83,35,60050,0,Elite Whales
+User_1858,91,26,58523,0,Elite Whales
+User_1859,3,24,38428,3,Core Mainstream
+User_1860,28,27,27017,3,Core Mainstream
+User_1861,25,25,36159,3,Core Mainstream
+User_1862,48,20,39422,2,Casual Users
+User_1863,17,19,27126,2,Casual Users
+User_1864,2,31,38298,3,Core Mainstream
+User_1865,114,17,23891,2,Casual Users
+User_1866,30,24,34933,3,Core Mainstream
+User_1867,150,29,35066,1,Dormant / Churned
+User_1868,136,27,37197,3,Core Mainstream
+User_1869,55,25,42630,3,Core Mainstream
+User_1870,126,22,31320,2,Casual Users
+User_1871,86,26,43893,3,Core Mainstream
+User_1872,30,22,34765,2,Casual Users
+User_1873,145,33,61401,0,Elite Whales
+User_1874,33,31,39341,3,Core Mainstream
+User_1875,178,19,26139,1,Dormant / Churned
+User_1876,18,33,54264,0,Elite Whales
+User_1877,31,31,49433,0,Elite Whales
+User_1878,9,27,39710,3,Core Mainstream
+User_1879,5,29,42007,3,Core Mainstream
+User_1880,154,22,19061,1,Dormant / Churned
+User_1881,73,24,37303,3,Core Mainstream
+User_1882,2,21,31479,2,Casual Users
+User_1883,1,25,42373,3,Core Mainstream
+User_1884,93,21,31401,2,Casual Users
+User_1885,8,30,47814,0,Elite Whales
+User_1886,58,21,37676,2,Casual Users
+User_1887,8,25,27175,2,Casual Users
+User_1888,42,33,66203,0,Elite Whales
+User_1889,15,29,36227,3,Core Mainstream
+User_1890,40,30,54019,0,Elite Whales
+User_1891,59,27,42148,3,Core Mainstream
+User_1892,15,24,32708,3,Core Mainstream
+User_1893,57,28,42382,3,Core Mainstream
+User_1894,13,25,44863,3,Core Mainstream
+User_1895,302,24,29288,1,Dormant / Churned
+User_1896,63,20,28449,2,Casual Users
+User_1897,16,30,43513,3,Core Mainstream
+User_1898,224,25,32851,1,Dormant / Churned
+User_1899,27,16,27691,2,Casual Users
+User_1900,124,14,22235,2,Casual Users
+User_1901,2,29,38188,3,Core Mainstream
+User_1902,91,25,43245,3,Core Mainstream
+User_1903,23,22,38496,3,Core Mainstream
+User_1904,8,32,59993,0,Elite Whales
+User_1905,47,31,56965,0,Elite Whales
+User_1906,4,22,39327,3,Core Mainstream
+User_1907,16,22,34355,2,Casual Users
+User_1908,15,29,36028,3,Core Mainstream
+User_1909,64,29,39184,3,Core Mainstream
+User_1910,99,30,41903,3,Core Mainstream
+User_1911,65,26,36128,3,Core Mainstream
+User_1912,29,28,39452,3,Core Mainstream
+User_1913,29,28,36998,3,Core Mainstream
+User_1914,13,21,35838,2,Casual Users
+User_1915,12,35,54792,0,Elite Whales
+User_1916,27,25,46833,3,Core Mainstream
+User_1917,199,19,33510,1,Dormant / Churned
+User_1918,19,20,34096,2,Casual Users
+User_1919,19,20,36241,2,Casual Users
+User_1920,184,26,37390,1,Dormant / Churned
+User_1921,84,22,24372,2,Casual Users
+User_1922,19,25,40522,3,Core Mainstream
+User_1923,26,31,62976,0,Elite Whales
+User_1924,16,20,25506,2,Casual Users
+User_1925,26,25,37926,3,Core Mainstream
+User_1926,49,26,41031,3,Core Mainstream
+User_1927,24,25,29899,3,Core Mainstream
+User_1928,11,22,26918,2,Casual Users
+User_1929,23,25,48696,3,Core Mainstream
+User_1930,22,27,37269,3,Core Mainstream
+User_1931,209,22,32140,1,Dormant / Churned
+User_1932,65,23,35674,3,Core Mainstream
+User_1933,12,33,60323,0,Elite Whales
+User_1934,147,24,37116,1,Dormant / Churned
+User_1935,131,31,45141,0,Elite Whales
+User_1936,235,27,31131,1,Dormant / Churned
+User_1937,29,25,34392,3,Core Mainstream
+User_1938,43,32,39590,3,Core Mainstream
+User_1939,41,29,34002,3,Core Mainstream
+User_1940,82,27,41440,3,Core Mainstream
+User_1941,105,20,30425,2,Casual Users
+User_1942,245,19,42563,1,Dormant / Churned
+User_1943,52,25,38519,3,Core Mainstream
+User_1944,4,26,38976,3,Core Mainstream
+User_1945,42,27,36163,3,Core Mainstream
+User_1946,104,22,42322,3,Core Mainstream
+User_1947,36,40,62753,0,Elite Whales
+User_1948,10,24,31672,3,Core Mainstream
+User_1949,16,32,28324,3,Core Mainstream
+User_1950,81,24,25794,2,Casual Users
+User_1951,69,18,24812,2,Casual Users
+User_1952,44,28,36375,3,Core Mainstream
+User_1953,105,33,50072,0,Elite Whales
+User_1954,17,24,36010,3,Core Mainstream
+User_1955,28,16,11114,2,Casual Users
+User_1956,12,24,39780,3,Core Mainstream
+User_1957,59,26,26606,2,Casual Users
+User_1958,8,26,39023,3,Core Mainstream
+User_1959,2,38,58885,0,Elite Whales
+User_1960,5,28,42923,3,Core Mainstream
+User_1961,124,29,35363,3,Core Mainstream
+User_1962,209,22,31385,1,Dormant / Churned
+User_1963,26,23,35833,3,Core Mainstream
+User_1964,15,32,58133,0,Elite Whales
+User_1965,17,27,33842,3,Core Mainstream
+User_1966,25,15,19654,2,Casual Users
+User_1967,28,24,29392,2,Casual Users
+User_1968,25,35,45783,0,Elite Whales
+User_1969,23,30,62013,0,Elite Whales
+User_1970,60,28,45660,3,Core Mainstream
+User_1971,45,31,48392,0,Elite Whales
+User_1972,3,25,36908,3,Core Mainstream
+User_1973,22,28,44072,3,Core Mainstream
+User_1974,94,32,48676,0,Elite Whales
+User_1975,25,23,33149,2,Casual Users
+User_1976,30,28,39520,3,Core Mainstream
+User_1977,82,32,54278,0,Elite Whales
+User_1978,79,34,51180,0,Elite Whales
+User_1979,58,19,23223,2,Casual Users
+User_1980,138,32,57431,0,Elite Whales
+User_1981,40,14,16708,2,Casual Users
+User_1982,4,24,31068,3,Core Mainstream
+User_1983,8,30,32848,3,Core Mainstream
+User_1984,46,20,22834,2,Casual Users
+User_1985,64,17,34450,2,Casual Users
+User_1986,78,29,53063,0,Elite Whales
+User_1987,17,33,57601,0,Elite Whales
+User_1988,70,24,50721,3,Core Mainstream
+User_1989,21,21,27389,2,Casual Users
+User_1990,152,20,29311,1,Dormant / Churned
+User_1991,23,22,27891,2,Casual Users
+User_1992,34,23,35872,3,Core Mainstream
+User_1993,35,19,30342,2,Casual Users
+User_1994,92,21,32827,2,Casual Users
+User_1995,15,33,57692,0,Elite Whales
+User_1996,101,15,19600,2,Casual Users
+User_1997,22,33,52236,0,Elite Whales
+User_1998,53,20,28657,2,Casual Users
+User_1999,15,23,46518,3,Core Mainstream
+User_2000,84,28,42085,3,Core Mainstream
